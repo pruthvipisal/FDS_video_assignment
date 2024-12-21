@@ -8,7 +8,7 @@ st.title("Interactive Dashboard: Preprocessing Impact on Model Performance")
 
 # Load datasets
 raw_data_path = "https://raw.githubusercontent.com/pruthvipisal/FDS_video_assignment/refs/heads/main/ecommerce_dataset.csv"  # Update with your actual raw dataset path
-preprocessed_data_path = "preprocessed_ecommerce_dataset.csv"  # Update with actual path
+preprocessed_data_path = "https://raw.githubusercontent.com/pruthvipisal/FDS_video_assignment/refs/heads/main/preprocessed_ecommerce_dataset.csv"  # Update with actual path
 
 # Read datasets with utf-8 encoding
 raw_df = pd.read_csv(raw_data_path, encoding="utf-8")
