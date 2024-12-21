@@ -1,0 +1,1006 @@
+Order_ID,Customer_ID,Order_Date,Product_Category,Product_Price,Quantity,Payment_Method,Delivery_Status,Customer_Age,Customer_Gender,Discount_Applied,Total_Sales,Region,Customer_Rating,Return_Status
+ORD1000,CUST125,2023-01-01,Groceries,496.0,8,Debit Card,On Time,50.0,Other,12,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1001,CUST90,2023-01-02,Home Decor,194.0,2,PayPal,Cancelled,63.0,Female,4,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1002,CUST111,2023-01-03,Electronics,250.0,4,Cash,Cancelled,22.0,Male,24,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1003,CUST79,2023-01-04,Groceries,466.0,2,Credit Card,Cancelled,60.0,Male,19,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1004,CUST161,2023-01-05,Groceries,261.0,5,PayPal,On Time,65.0,Male,17,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1005,CUST112,2023-01-06,Home Decor,269.0,9,Cash,Cancelled,51.0,Female,46,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1006,CUST102,2023-01-07,Electronics,289.0,1,PayPal,On Time,57.0,Male,17,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1007,CUST173,2023-01-08,Electronics,462.0,5,PayPal,Cancelled,28.0,Female,1,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1008,CUST125,2023-01-09,Groceries,446.0,9,PayPal,On Time,67.0,Male,9,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1009,CUST59,2023-01-10,Clothing,95.0,1,Credit Card,Cancelled,20.0,Male,44,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1010,CUST135,2023-01-11,Groceries,84.0,9,Cash,Late,50.0,Female,49,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1011,CUST74,2023-01-12,Groceries,302.0,8,Debit Card,Cancelled,28.0,Male,46,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1012,CUST129,2023-01-13,Groceries,439.0,4,Credit Card,Cancelled,33.0,Other,11,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1013,CUST14,2023-01-14,Groceries,131.0,5,Credit Card,On Time,35.0,Female,46,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1014,CUST119,2023-01-15,Home Decor,420.0,5,Credit Card,On Time,47.0,Female,12,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1015,CUST4,2023-01-16,Electronics,305.0,6,Debit Card,Cancelled,65.0,Female,49,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1016,CUST145,2023-01-17,Home Decor,246.0,7,Cash,Late,27.0,Other,46,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1017,CUST103,2023-01-18,Home Decor,352.0,8,Cash,Late,35.0,Female,10,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1018,CUST155,2023-01-19,Home Decor,458.0,8,Cash,On Time,55.0,Male,18,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1019,CUST193,2023-01-20,Groceries,499.0,2,PayPal,Late,36.0,Male,34,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1020,CUST42,2023-01-21,Clothing,59.0,9,PayPal,Cancelled,53.0,Male,38,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1021,CUST66,2023-01-22,Electronics,361.0,7,PayPal,On Time,30.0,Female,25,<function <lambda> at 0x796a7ccaae60>,South,4.0,Returned
+ORD1022,CUST199,2023-01-23,Clothing,335.0,4,Debit Card,Cancelled,63.0,Male,45,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1023,CUST111,2023-01-24,Home Decor,291.0,4,PayPal,On Time,20.0,Female,13,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1024,CUST63,2023-01-25,Home Decor,300.0,8,Debit Card,On Time,27.0,Male,44,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1025,CUST90,2023-01-26,Clothing,414.0,4,Cash,On Time,55.0,Other,43,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1026,CUST17,2023-01-27,Clothing,54.0,6,PayPal,On Time,18.0,Other,23,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1027,CUST21,2023-01-28,Clothing,168.0,5,PayPal,Late,44.0,Other,40,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1028,CUST178,2023-01-29,Home Decor,338.0,3,Credit Card,Cancelled,63.0,Other,0,<function <lambda> at 0x796a7ccaae60>,South,-1.0,Returned
+ORD1029,CUST48,2023-01-30,Home Decor,423.0,2,Debit Card,Cancelled,,Female,42,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1030,CUST198,2023-01-31,Electronics,114.0,9,Cash,Cancelled,68.0,Male,21,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1031,CUST35,2023-02-01,Electronics,195.0,9,Credit Card,On Time,63.0,Other,22,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1032,CUST67,2023-02-02,Home Decor,273.0,1,Credit Card,Late,59.0,Female,18,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1033,CUST158,2023-02-03,Clothing,288.0,3,Cash,Cancelled,34.0,Other,17,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1034,CUST174,2023-02-04,Clothing,226.0,8,Credit Card,Late,26.0,Other,11,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1035,CUST78,2023-02-05,Electronics,316.0,6,Debit Card,On Time,23.0,Female,27,<function <lambda> at 0x796a7ccaae60>,East,,Returned
+ORD1036,CUST139,2023-02-06,Home Decor,390.0,5,Debit Card,Cancelled,60.0,Female,27,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1037,CUST181,2023-02-07,Electronics,331.0,5,PayPal,Late,42.0,Male,32,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1038,CUST164,2023-02-08,Electronics,112.0,6,Credit Card,On Time,56.0,Male,18,<function <lambda> at 0x796a7ccaae60>,West,-1.0,Returned
+ORD1039,CUST107,2023-02-09,Groceries,5000.0,7,PayPal,Late,66.0,Other,27,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1040,CUST140,2023-02-10,Groceries,391.0,1,Credit Card,Cancelled,45.0,Other,48,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1041,CUST64,2023-02-11,Groceries,364.0,9,Debit Card,Cancelled,50.0,Male,36,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1042,CUST50,2023-02-12,Clothing,332.0,3,Debit Card,On Time,54.0,Male,25,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1043,CUST123,2023-02-13,Home Decor,226.0,4,Debit Card,On Time,26.0,Female,34,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1044,CUST126,2023-02-14,Home Decor,466.0,1,Credit Card,On Time,35.0,Male,33,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1045,CUST64,2023-02-15,Home Decor,147.0,3,Debit Card,Late,38.0,Male,34,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1046,CUST134,2023-02-16,Home Decor,154.0,2,Credit Card,Late,19.0,Other,39,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1047,CUST89,2023-02-17,Groceries,148.0,2,PayPal,Late,60.0,Male,15,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1048,CUST37,2023-02-18,Clothing,434.0,1,Credit Card,On Time,55.0,Other,37,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1049,CUST19,2023-02-19,Clothing,454.0,8,PayPal,Cancelled,57.0,Male,12,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1050,CUST26,2023-02-20,Groceries,360.0,3,Credit Card,Cancelled,53.0,Female,22,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1051,CUST14,2023-02-21,Clothing,55.0,3,PayPal,Late,67.0,Male,21,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1052,CUST195,2023-02-22,Groceries,246.0,6,Debit Card,Late,60.0,Male,15,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1053,CUST78,2023-02-23,Home Decor,400.0,8,PayPal,Cancelled,54.0,Male,27,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1054,CUST44,2023-02-24,Groceries,182.0,9,Debit Card,Cancelled,32.0,Other,47,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1055,CUST116,2023-02-25,Home Decor,407.0,9,Debit Card,Late,45.0,Female,34,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1056,CUST172,2023-02-26,Home Decor,308.0,4,PayPal,Late,35.0,Male,44,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1057,CUST60,2023-02-27,Electronics,486.0,5,Credit Card,Cancelled,51.0,Other,45,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1058,CUST28,2023-02-28,Groceries,72.0,2,Credit Card,On Time,39.0,Female,7,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1059,CUST106,2023-03-01,Electronics,102.0,9,Cash,Late,28.0,Other,43,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1060,CUST136,2023-03-02,Groceries,214.0,8,Credit Card,Cancelled,30.0,Other,21,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1061,CUST181,2023-03-03,Groceries,251.0,3,Cash,Cancelled,21.0,Female,20,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1062,CUST179,2023-03-04,Electronics,132.0,9,Credit Card,Cancelled,39.0,Male,25,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1063,CUST123,2023-03-05,Electronics,194.0,3,Credit Card,Cancelled,24.0,Other,39,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1064,CUST168,2023-03-06,Groceries,134.0,9,Debit Card,On Time,60.0,Other,20,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1065,CUST133,2023-03-07,Clothing,127.0,2,Cash,Cancelled,41.0,Male,24,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1066,CUST31,2023-03-08,Home Decor,415.0,9,Credit Card,Late,21.0,Male,40,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1067,CUST128,2023-03-09,Electronics,50.0,8,Cash,On Time,45.0,Female,0,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1068,CUST134,2023-03-10,Home Decor,100.0,9,Debit Card,Cancelled,32.0,Female,5,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1069,CUST50,2023-03-11,Clothing,222.0,5,Debit Card,On Time,18.0,Female,22,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1070,CUST4,2023-03-12,Clothing,254.0,2,Cash,Late,20.0,Male,22,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1071,CUST131,2023-03-13,Clothing,309.0,8,Debit Card,Cancelled,31.0,Other,42,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1072,CUST19,2023-03-14,Electronics,495.0,6,PayPal,Late,55.0,Other,42,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1073,CUST94,2023-03-15,Clothing,498.0,8,PayPal,Cancelled,67.0,Female,22,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1074,CUST87,2023-03-16,Electronics,,5,Debit Card,Cancelled,18.0,Male,31,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1075,CUST82,2023-03-17,Clothing,337.0,2,PayPal,Cancelled,55.0,Other,29,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1076,CUST37,2023-03-18,Home Decor,83.0,6,Credit Card,Cancelled,55.0,Female,12,<function <lambda> at 0x796a7ccaae60>,West,1.0,Not Returned
+ORD1077,CUST139,2023-03-19,Home Decor,397.0,5,Cash,Cancelled,38.0,Other,42,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1078,CUST156,2023-03-20,Groceries,144.0,5,Credit Card,On Time,65.0,Other,17,<function <lambda> at 0x796a7ccaae60>,East,,Returned
+ORD1079,CUST79,2023-03-21,Home Decor,121.0,1,Cash,Cancelled,46.0,Male,22,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1080,CUST123,2023-03-22,Groceries,88.0,2,Debit Card,Cancelled,22.0,Male,14,<function <lambda> at 0x796a7ccaae60>,North,5.0,Returned
+ORD1081,CUST57,2023-03-23,Home Decor,203.0,8,Credit Card,On Time,66.0,Other,32,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1082,CUST129,2023-03-24,Electronics,299.0,3,Debit Card,On Time,27.0,Female,20,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1083,CUST151,2023-03-25,Home Decor,211.0,3,Debit Card,On Time,45.0,Male,38,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1084,CUST15,2023-03-26,Groceries,487.0,8,Cash,On Time,38.0,Other,22,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1085,CUST83,2023-03-27,Groceries,167.0,8,Cash,On Time,67.0,Male,26,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1086,CUST31,2023-03-28,Clothing,308.0,2,Cash,On Time,24.0,Male,44,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1087,CUST37,2023-03-29,Electronics,428.0,8,Credit Card,Cancelled,20.0,Male,43,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1088,CUST28,2023-03-30,Home Decor,355.0,1,PayPal,Cancelled,62.0,Other,17,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1089,CUST82,2023-03-31,Clothing,317.0,6,Cash,Late,64.0,Female,23,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1090,CUST180,2023-04-01,Home Decor,498.0,8,Cash,Cancelled,37.0,Female,46,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1091,CUST103,2023-04-02,Home Decor,103.0,3,Credit Card,Cancelled,36.0,Female,39,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1092,CUST167,2023-04-03,Clothing,285.0,8,Cash,On Time,52.0,Male,41,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1093,CUST77,2023-04-04,Clothing,438.0,1,Credit Card,On Time,21.0,Other,6,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1094,CUST196,2023-04-05,Clothing,271.0,9,Debit Card,Cancelled,22.0,Male,49,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1095,CUST14,2023-04-06,Clothing,300.0,9,Cash,Late,18.0,Female,47,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1096,CUST193,2023-04-07,Clothing,362.0,5,Cash,On Time,21.0,Female,19,<function <lambda> at 0x796a7ccaae60>,North,,Returned
+ORD1097,CUST73,2023-04-08,Home Decor,450.0,4,Debit Card,Cancelled,29.0,Other,26,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1098,CUST93,2023-04-09,Clothing,161.0,6,Debit Card,Cancelled,44.0,Male,5,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1099,CUST72,2023-04-10,Electronics,304.0,7,Debit Card,Late,59.0,Female,26,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1100,CUST149,2023-04-11,Groceries,352.0,5,Cash,Late,40.0,Other,8,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1101,CUST29,2023-04-12,Clothing,456.0,9,PayPal,On Time,42.0,Male,44,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1102,CUST97,2023-04-13,Clothing,256.0,3,PayPal,Late,38.0,Male,30,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1103,CUST55,2023-04-14,Home Decor,278.0,7,PayPal,Cancelled,69.0,Female,20,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1104,CUST32,2023-04-15,Clothing,390.0,5,Cash,Cancelled,41.0,Female,25,<function <lambda> at 0x796a7ccaae60>,North,5.0,Returned
+ORD1105,CUST175,2023-04-16,Clothing,447.0,7,Debit Card,Late,,Male,39,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1106,CUST70,2023-04-17,Clothing,115.0,2,Cash,Late,62.0,Male,47,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1107,CUST109,2023-04-18,Home Decor,124.0,4,Debit Card,Late,63.0,Female,44,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1108,CUST16,2023-04-19,Clothing,484.0,2,Cash,Late,49.0,Male,12,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1109,CUST1,2023-04-20,Groceries,152.0,7,Cash,On Time,49.0,Female,48,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1110,CUST118,2023-04-21,Home Decor,471.0,2,Debit Card,Late,22.0,Male,22,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1111,CUST150,2023-04-22,Groceries,241.0,1,PayPal,On Time,53.0,Female,19,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1112,CUST54,2023-04-23,Home Decor,301.0,9,Debit Card,Cancelled,63.0,Other,36,<function <lambda> at 0x796a7ccaae60>,West,,Returned
+ORD1113,CUST50,2023-04-24,Clothing,275.0,1,Credit Card,Late,59.0,Female,27,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1114,CUST98,2023-04-25,Groceries,343.0,8,Credit Card,On Time,66.0,Female,16,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1115,CUST51,2023-04-26,Home Decor,355.0,2,Debit Card,Late,59.0,Other,27,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1116,CUST80,2023-04-27,Electronics,147.0,8,Cash,Cancelled,56.0,Male,40,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1117,CUST80,2023-04-28,Clothing,387.0,3,Credit Card,Cancelled,,Other,1,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1118,CUST190,2023-04-29,Home Decor,335.0,6,Credit Card,Cancelled,50.0,Female,24,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1119,CUST150,2023-04-30,Electronics,384.0,3,Cash,Late,66.0,Male,49,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1120,CUST101,2023-05-01,Home Decor,396.0,7,Cash,Late,38.0,Other,40,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1121,CUST144,2023-05-02,Electronics,484.0,9,PayPal,On Time,26.0,Male,5,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1122,CUST154,2023-05-03,Clothing,496.0,2,Cash,Cancelled,23.0,Male,10,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1123,CUST30,2023-05-04,Groceries,357.0,5,Debit Card,Late,68.0,Other,37,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1124,CUST10,2023-05-05,Electronics,298.0,6,Debit Card,Cancelled,62.0,Male,5,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1125,CUST179,2023-05-06,Home Decor,215.0,4,PayPal,Cancelled,52.0,Other,44,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1126,CUST192,2023-05-07,Clothing,384.0,4,Credit Card,On Time,56.0,Female,10,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1127,CUST141,2023-05-08,Electronics,79.0,4,Credit Card,On Time,39.0,Male,13,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1128,CUST27,2023-05-09,Home Decor,296.0,2,Cash,On Time,58.0,Female,1,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1129,CUST20,2023-05-10,Home Decor,155.0,4,Debit Card,On Time,22.0,Female,39,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1130,CUST161,2023-05-11,Home Decor,100.0,1,Credit Card,Cancelled,59.0,Male,2,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1131,CUST78,2023-05-12,Electronics,130.0,6,PayPal,On Time,40.0,Other,34,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1132,CUST131,2023-05-13,Electronics,182.0,1,PayPal,On Time,34.0,Male,32,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1133,CUST65,2023-05-14,Electronics,334.0,6,Debit Card,On Time,29.0,Female,23,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1134,CUST96,2023-05-15,Groceries,437.0,1,PayPal,On Time,40.0,Female,18,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1135,CUST193,2023-05-16,Electronics,187.0,6,PayPal,Cancelled,33.0,Other,17,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1136,CUST11,2023-05-17,Electronics,233.0,8,Debit Card,On Time,20.0,Male,48,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1137,CUST130,2023-05-18,Electronics,450.0,2,Cash,Cancelled,47.0,Female,23,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1138,CUST9,2023-05-19,Groceries,379.0,2,Cash,Late,39.0,Female,44,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1139,CUST81,2023-05-20,Electronics,322.0,4,PayPal,Cancelled,26.0,Female,34,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1140,CUST38,2023-05-21,Home Decor,389.0,3,Cash,Cancelled,46.0,Other,0,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1141,CUST56,2023-05-22,Electronics,118.0,4,Cash,On Time,64.0,Female,35,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1142,CUST96,2023-05-23,Home Decor,83.0,7,PayPal,Late,54.0,Female,24,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1143,CUST127,2023-05-24,Home Decor,311.0,1,Cash,Late,40.0,Male,44,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1144,CUST38,2023-05-25,Home Decor,102.0,6,PayPal,Late,30.0,Male,48,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1145,CUST180,2023-05-26,Groceries,499.0,3,Credit Card,Late,49.0,Female,42,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1146,CUST22,2023-05-27,Groceries,254.0,7,Debit Card,Cancelled,63.0,Female,33,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1147,CUST183,2023-05-28,Groceries,175.0,2,Debit Card,Late,69.0,Male,24,<function <lambda> at 0x796a7ccaae60>,South,4.0,Returned
+ORD1148,CUST66,2023-05-29,Electronics,284.0,2,Cash,Cancelled,64.0,Other,15,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1149,CUST46,2023-05-30,Home Decor,92.0,4,Cash,Cancelled,65.0,Other,33,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1150,CUST154,2023-05-31,Groceries,289.0,1,Cash,Cancelled,40.0,Other,28,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1151,CUST198,2023-06-01,Groceries,420.0,3,Debit Card,Late,,Other,18,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1152,CUST89,2023-06-02,Electronics,160.0,9,Credit Card,On Time,34.0,Other,22,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1153,CUST131,2023-06-03,Groceries,298.0,7,Credit Card,On Time,57.0,Other,18,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1154,CUST125,2023-06-04,Electronics,200.0,7,Debit Card,Late,38.0,Other,24,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1155,CUST139,2023-06-05,Clothing,232.0,4,Credit Card,On Time,19.0,Other,15,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1156,CUST163,2023-06-06,Groceries,385.0,2,Debit Card,On Time,54.0,Male,8,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1157,CUST172,2023-06-07,Clothing,144.0,4,Credit Card,Cancelled,23.0,Other,0,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1158,CUST68,2023-06-08,Electronics,423.0,6,PayPal,Cancelled,,Other,41,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1159,CUST104,2023-06-09,Home Decor,449.0,3,PayPal,Late,35.0,Other,18,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1160,CUST78,2023-06-10,Groceries,57.0,1,Debit Card,Late,47.0,Female,32,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1161,CUST29,2023-06-11,Electronics,437.0,8,Credit Card,On Time,39.0,Male,33,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1162,CUST89,2023-06-12,Home Decor,409.0,5,Cash,Cancelled,50.0,Male,15,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1163,CUST172,2023-06-13,Home Decor,437.0,5,Credit Card,Late,47.0,Male,43,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1164,CUST95,2023-06-14,Clothing,233.0,4,PayPal,Late,34.0,Other,39,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1165,CUST25,2023-06-15,Electronics,330.0,6,PayPal,Late,60.0,Other,17,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1166,CUST43,2023-06-16,Home Decor,244.0,3,Credit Card,Late,49.0,Female,33,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1167,CUST24,2023-06-17,Groceries,401.0,9,Credit Card,Late,59.0,Male,24,<function <lambda> at 0x796a7ccaae60>,West,,Returned
+ORD1168,CUST12,2023-06-18,Groceries,244.0,5,Cash,Late,68.0,Other,44,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1169,CUST171,2023-06-19,Clothing,204.0,3,Cash,On Time,31.0,Male,5,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1170,CUST148,2023-06-20,Home Decor,142.0,1,Credit Card,Cancelled,27.0,Female,20,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1171,CUST168,2023-06-21,Electronics,209.0,6,Credit Card,Cancelled,64.0,Female,5,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1172,CUST191,2023-06-22,Groceries,483.0,2,Credit Card,Late,68.0,Female,31,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1173,CUST131,2023-06-23,Home Decor,110.0,3,Credit Card,Cancelled,53.0,Male,40,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1174,CUST45,2023-06-24,Home Decor,171.0,1,Debit Card,Cancelled,51.0,Other,47,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1175,CUST179,2023-06-25,Clothing,100.0,9,Credit Card,Cancelled,26.0,Other,42,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1176,CUST89,2023-06-26,Groceries,452.0,8,Cash,Late,59.0,Female,38,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1177,CUST152,2023-06-27,Groceries,326.0,2,PayPal,Late,45.0,Other,30,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1178,CUST199,2023-06-28,Electronics,54.0,8,Debit Card,Cancelled,28.0,Female,41,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1179,CUST20,2023-06-29,Groceries,141.0,9,Credit Card,Cancelled,31.0,Male,9,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1180,CUST162,2023-06-30,Electronics,219.0,1,PayPal,Late,56.0,Female,29,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1181,CUST162,2023-07-01,Groceries,366.0,5,Debit Card,On Time,64.0,Male,17,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1182,CUST185,2023-07-02,Clothing,71.0,8,PayPal,Cancelled,36.0,Female,23,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1183,CUST58,2023-07-03,Groceries,454.0,2,Credit Card,On Time,32.0,Other,8,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1184,CUST2,2023-07-04,Electronics,375.0,4,Credit Card,Cancelled,45.0,Other,30,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1185,CUST28,2023-07-05,Electronics,50.0,7,Cash,On Time,41.0,Female,14,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1186,CUST141,2023-07-06,Clothing,182.0,3,Credit Card,On Time,,Other,3,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1187,CUST51,2023-07-07,Groceries,282.0,5,Credit Card,On Time,60.0,Other,39,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1188,CUST113,2023-07-08,Groceries,61.0,8,Debit Card,Late,26.0,Other,8,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1189,CUST109,2023-07-09,Clothing,395.0,3,Cash,On Time,64.0,Male,44,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1190,CUST144,2023-07-10,Groceries,95.0,4,Debit Card,On Time,50.0,Other,8,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1191,CUST12,2023-07-11,Groceries,83.0,9,PayPal,On Time,50.0,Male,25,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1192,CUST129,2023-07-12,Electronics,482.0,7,Credit Card,Cancelled,36.0,Female,3,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1193,CUST67,2023-07-13,Groceries,127.0,1,PayPal,On Time,20.0,Other,16,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1194,CUST74,2023-07-14,Groceries,267.0,4,Debit Card,Cancelled,27.0,Other,15,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1195,CUST73,2023-07-15,Clothing,350.0,4,Credit Card,On Time,57.0,Other,14,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1196,CUST190,2023-07-16,Clothing,460.0,9,Credit Card,On Time,64.0,Female,34,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1197,CUST48,2023-07-17,Home Decor,122.0,6,Debit Card,Late,59.0,Male,4,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1198,CUST165,2023-07-18,Electronics,331.0,9,Debit Card,Cancelled,18.0,Male,4,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1199,CUST26,2023-07-19,Groceries,,6,Debit Card,On Time,46.0,Other,19,<function <lambda> at 0x796a7ccaae60>,West,1.0,Not Returned
+ORD1200,CUST99,2023-07-20,Groceries,96.0,6,Debit Card,Cancelled,67.0,Female,14,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1201,CUST66,2023-07-21,Home Decor,170.0,5,Debit Card,Cancelled,51.0,Female,17,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1202,CUST113,2023-07-22,Groceries,263.0,5,Credit Card,Late,68.0,Female,46,<function <lambda> at 0x796a7ccaae60>,West,,Not Returned
+ORD1203,CUST174,2023-07-23,Electronics,288.0,2,Debit Card,Late,30.0,Female,1,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1204,CUST46,2023-07-24,Home Decor,105.0,8,Credit Card,Late,18.0,Female,28,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1205,CUST21,2023-07-25,Electronics,399.0,8,Credit Card,Late,51.0,Male,12,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1206,CUST54,2023-07-26,Home Decor,156.0,1,Debit Card,Late,46.0,Male,3,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1207,CUST34,2023-07-27,Home Decor,368.0,8,Debit Card,Late,65.0,Male,41,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1208,CUST43,2023-07-28,Clothing,97.0,5,Cash,Late,64.0,Other,44,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1209,CUST111,2023-07-29,Electronics,110.0,2,Credit Card,Late,30.0,Female,9,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1210,CUST146,2023-07-30,Groceries,386.0,2,Debit Card,On Time,65.0,Other,30,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1211,CUST184,2023-07-31,Groceries,75.0,6,Debit Card,Cancelled,66.0,Female,40,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1212,CUST83,2023-08-01,Electronics,341.0,9,Debit Card,Late,46.0,Male,7,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1213,CUST34,2023-08-02,Groceries,306.0,1,Cash,Late,56.0,Other,2,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1214,CUST76,2023-08-03,Groceries,57.0,6,Cash,Cancelled,41.0,Male,47,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1215,CUST114,2023-08-04,Electronics,162.0,9,PayPal,On Time,43.0,Female,45,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1216,CUST145,2023-08-05,Home Decor,404.0,8,Credit Card,Cancelled,34.0,Female,8,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1217,CUST99,2023-08-06,Electronics,302.0,6,PayPal,Cancelled,24.0,Female,29,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1218,CUST114,2023-08-07,Home Decor,229.0,3,Debit Card,Late,30.0,Male,10,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1219,CUST184,2023-08-08,Groceries,256.0,8,Cash,Cancelled,22.0,Female,34,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1220,CUST40,2023-08-09,Groceries,352.0,9,Cash,Cancelled,43.0,Male,36,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1221,CUST126,2023-08-10,Groceries,176.0,1,PayPal,Late,66.0,Other,41,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1222,CUST190,2023-08-11,Clothing,105.0,9,Cash,Late,20.0,Female,12,<function <lambda> at 0x796a7ccaae60>,South,4.0,Returned
+ORD1223,CUST144,2023-08-12,Home Decor,263.0,6,Debit Card,Late,24.0,Female,35,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1224,CUST35,2023-08-13,Clothing,63.0,6,Cash,Late,66.0,Female,12,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1225,CUST46,2023-08-14,Clothing,77.0,4,PayPal,Cancelled,56.0,Other,11,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1226,CUST146,2023-08-15,Electronics,127.0,1,Debit Card,Cancelled,18.0,Female,36,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1227,CUST175,2023-08-16,Clothing,265.0,8,PayPal,On Time,66.0,Male,9,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1228,CUST131,2023-08-17,Electronics,435.0,2,Cash,On Time,34.0,Male,8,<function <lambda> at 0x796a7ccaae60>,North,5.0,Returned
+ORD1229,CUST124,2023-08-18,Electronics,414.0,1,PayPal,Cancelled,60.0,Female,6,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1230,CUST59,2023-08-19,Clothing,203.0,2,PayPal,On Time,42.0,Female,1,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1231,CUST172,2023-08-20,Home Decor,63.0,1,Credit Card,Cancelled,20.0,Other,22,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1232,CUST143,2023-08-21,Home Decor,236.0,1,Cash,On Time,32.0,Other,38,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1233,CUST85,2023-08-22,Home Decor,361.0,9,Cash,Late,46.0,Other,39,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1234,CUST174,2023-08-23,Home Decor,420.0,1,PayPal,On Time,60.0,Female,38,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1235,CUST99,2023-08-24,Home Decor,56.0,4,Credit Card,Late,49.0,Other,20,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1236,CUST102,2023-08-25,Clothing,52.0,6,Cash,Late,43.0,Other,22,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1237,CUST52,2023-08-26,Clothing,160.0,7,Debit Card,Late,33.0,Male,28,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1238,CUST132,2023-08-27,Groceries,456.0,2,PayPal,Late,,Other,13,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1239,CUST29,2023-08-28,Home Decor,287.0,6,Cash,On Time,45.0,Male,25,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1240,CUST163,2023-08-29,Clothing,412.0,7,Debit Card,Cancelled,26.0,Male,4,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1241,CUST96,2023-08-30,Groceries,288.0,2,Cash,Late,18.0,Other,30,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1242,CUST174,2023-08-31,Home Decor,323.0,2,Debit Card,On Time,46.0,Male,24,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1243,CUST108,2023-09-01,Electronics,343.0,7,PayPal,Late,39.0,Female,30,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1244,CUST18,2023-09-02,Groceries,276.0,1,Cash,On Time,33.0,Female,49,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1245,CUST197,2023-09-03,Clothing,420.0,8,Cash,On Time,58.0,Other,19,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1246,CUST89,2023-09-04,Electronics,64.0,3,Credit Card,On Time,68.0,Female,43,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1247,CUST41,2023-09-05,Electronics,241.0,6,PayPal,Cancelled,61.0,Male,16,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1248,CUST200,2023-09-06,Electronics,168.0,9,Debit Card,On Time,68.0,Female,44,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1249,CUST180,2023-09-07,Groceries,77.0,6,Cash,On Time,58.0,Other,1,<function <lambda> at 0x796a7ccaae60>,South,4.0,Returned
+ORD1250,CUST25,2023-09-08,Clothing,251.0,9,Cash,Cancelled,24.0,Other,24,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1251,CUST111,2023-09-09,Electronics,88.0,7,Debit Card,Cancelled,31.0,Male,12,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1252,CUST121,2023-09-10,Home Decor,490.0,9,PayPal,On Time,46.0,Other,38,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1253,CUST171,2023-09-11,Electronics,322.0,2,Credit Card,Cancelled,36.0,Female,27,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1254,CUST196,2023-09-12,Electronics,280.0,8,Credit Card,Late,36.0,Other,41,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1255,CUST26,2023-09-13,Groceries,135.0,8,Cash,Late,19.0,Male,5,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1256,CUST94,2023-09-14,Groceries,175.0,2,Debit Card,Cancelled,58.0,Other,2,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1257,CUST110,2023-09-15,Clothing,349.0,4,Cash,Cancelled,62.0,Female,34,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1258,CUST177,2023-09-16,Home Decor,74.0,7,Debit Card,On Time,32.0,Male,17,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1259,CUST44,2023-09-17,Groceries,194.0,4,Credit Card,Cancelled,20.0,Female,10,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1260,CUST27,2023-09-18,Electronics,62.0,4,PayPal,On Time,28.0,Male,19,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1261,CUST118,2023-09-19,Clothing,261.0,6,Debit Card,Late,63.0,Other,4,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1262,CUST87,2023-09-20,Electronics,74.0,6,Credit Card,Cancelled,47.0,Male,18,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1263,CUST29,2023-09-21,Electronics,117.0,3,Cash,On Time,57.0,Male,21,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1264,CUST101,2023-09-22,Groceries,443.0,9,Debit Card,On Time,35.0,Other,18,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1265,CUST45,2023-09-23,Clothing,116.0,2,PayPal,Late,68.0,Female,46,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1266,CUST14,2023-09-24,Home Decor,282.0,6,Cash,Cancelled,65.0,Other,15,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1267,CUST174,2023-09-25,Home Decor,158.0,7,Cash,Late,19.0,Male,23,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1268,CUST182,2023-09-26,Groceries,195.0,9,Credit Card,On Time,49.0,Other,40,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1269,CUST40,2023-09-27,Groceries,160.0,3,Debit Card,On Time,,Male,3,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1270,CUST183,2023-09-28,Clothing,277.0,3,Cash,Cancelled,39.0,Other,14,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1271,CUST105,2023-09-29,Home Decor,160.0,7,PayPal,On Time,23.0,Other,24,<function <lambda> at 0x796a7ccaae60>,North,5.0,Returned
+ORD1272,CUST90,2023-09-30,Home Decor,83.0,4,Debit Card,Cancelled,29.0,Female,43,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1273,CUST30,2023-10-01,Home Decor,160.0,8,PayPal,Late,64.0,Male,34,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1274,CUST110,2023-10-02,Electronics,313.0,7,Cash,Cancelled,57.0,Female,13,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1275,CUST158,2023-10-03,Home Decor,473.0,5,PayPal,Cancelled,53.0,Male,48,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1276,CUST71,2023-10-04,Electronics,,7,Credit Card,On Time,32.0,Other,18,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1277,CUST104,2023-10-05,Clothing,285.0,3,PayPal,On Time,45.0,Male,37,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1278,CUST138,2023-10-06,Electronics,132.0,2,Debit Card,Cancelled,69.0,Female,35,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1279,CUST155,2023-10-07,Clothing,91.0,6,PayPal,On Time,66.0,Female,6,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1280,CUST8,2023-10-08,Home Decor,474.0,2,PayPal,On Time,62.0,Female,29,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1281,CUST140,2023-10-09,Home Decor,150.0,3,Credit Card,On Time,35.0,Male,18,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1282,CUST162,2023-10-10,Clothing,55.0,6,PayPal,Cancelled,19.0,Female,48,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1283,CUST71,2023-10-11,Groceries,,5,PayPal,On Time,30.0,Female,24,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1284,CUST65,2023-10-12,Clothing,331.0,8,Cash,Cancelled,62.0,Female,15,<function <lambda> at 0x796a7ccaae60>,South,,Returned
+ORD1285,CUST111,2023-10-13,Groceries,369.0,9,Cash,On Time,32.0,Other,46,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1286,CUST95,2023-10-14,Electronics,275.0,3,Debit Card,Late,37.0,Other,39,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1287,CUST193,2023-10-15,Electronics,492.0,3,Cash,On Time,46.0,Male,7,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1288,CUST72,2023-10-16,Electronics,489.0,3,Cash,On Time,59.0,Male,17,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1289,CUST63,2023-10-17,Home Decor,364.0,6,Cash,Cancelled,46.0,Female,27,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1290,CUST140,2023-10-18,Electronics,414.0,1,Cash,Cancelled,20.0,Other,15,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1291,CUST19,2023-10-19,Groceries,278.0,7,Credit Card,On Time,36.0,Female,18,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1292,CUST13,2023-10-20,Electronics,426.0,1,Cash,Late,20.0,Female,41,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1293,CUST184,2023-10-21,Clothing,338.0,5,Credit Card,On Time,31.0,Other,16,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1294,CUST142,2023-10-22,Clothing,486.0,8,Credit Card,On Time,57.0,Other,44,<function <lambda> at 0x796a7ccaae60>,South,,Not Returned
+ORD1295,CUST168,2023-10-23,Home Decor,199.0,4,Cash,Late,21.0,Other,12,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1296,CUST30,2023-10-24,Clothing,326.0,5,PayPal,Cancelled,69.0,Male,6,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1297,CUST200,2023-10-25,Groceries,247.0,4,Credit Card,On Time,28.0,Male,26,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1298,CUST166,2023-10-26,Electronics,119.0,4,PayPal,Cancelled,48.0,Female,9,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1299,CUST58,2023-10-27,Home Decor,161.0,8,PayPal,Cancelled,60.0,Male,33,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1300,CUST41,2023-10-28,Electronics,53.0,2,Cash,Late,49.0,Other,35,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1301,CUST133,2023-10-29,Electronics,399.0,1,Debit Card,Late,44.0,Other,24,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1302,CUST151,2023-10-30,Groceries,380.0,3,Cash,Cancelled,47.0,Male,5,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1303,CUST96,2023-10-31,Clothing,495.0,9,Debit Card,On Time,60.0,Female,23,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1304,CUST80,2023-11-01,Clothing,367.0,4,Debit Card,Cancelled,19.0,Female,17,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1305,CUST73,2023-11-02,Electronics,399.0,5,Cash,On Time,66.0,Male,22,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1306,CUST165,2023-11-03,Home Decor,144.0,2,Cash,On Time,26.0,Female,5,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1307,CUST40,2023-11-04,Clothing,201.0,4,Debit Card,Late,45.0,Female,28,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1308,CUST149,2023-11-05,Home Decor,360.0,2,Cash,On Time,48.0,Female,24,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1309,CUST82,2023-11-06,Clothing,186.0,2,Debit Card,On Time,51.0,Other,16,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1310,CUST164,2023-11-07,Home Decor,,4,PayPal,Cancelled,32.0,Other,45,<function <lambda> at 0x796a7ccaae60>,South,4.0,Returned
+ORD1311,CUST177,2023-11-08,Groceries,436.0,6,Cash,Late,65.0,Male,23,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1312,CUST189,2023-11-09,Home Decor,292.0,7,PayPal,On Time,42.0,Other,10,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1313,CUST22,2023-11-10,Groceries,80.0,3,Credit Card,On Time,53.0,Female,25,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1314,CUST90,2023-11-11,Groceries,89.0,3,PayPal,Late,25.0,Other,33,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1315,CUST57,2023-11-12,Home Decor,278.0,6,PayPal,Cancelled,26.0,Male,27,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1316,CUST187,2023-11-13,Groceries,85.0,3,Debit Card,Late,54.0,Other,2,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1317,CUST67,2023-11-14,Electronics,457.0,2,PayPal,Late,65.0,Female,10,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1318,CUST96,2023-11-15,Groceries,272.0,8,Cash,On Time,62.0,Female,37,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1319,CUST19,2023-11-16,Clothing,55.0,5,Debit Card,On Time,56.0,Male,13,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1320,CUST78,2023-11-17,Home Decor,371.0,1,Credit Card,Cancelled,49.0,Other,25,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1321,CUST60,2023-11-18,Electronics,269.0,3,Cash,On Time,69.0,Other,47,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1322,CUST104,2023-11-19,Home Decor,124.0,8,Credit Card,On Time,,Other,20,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1323,CUST143,2023-11-20,Clothing,53.0,4,PayPal,Late,52.0,Female,38,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1324,CUST27,2023-11-21,Clothing,384.0,7,Cash,On Time,54.0,Male,29,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1325,CUST24,2023-11-22,Clothing,183.0,2,Cash,Cancelled,36.0,Other,7,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1326,CUST5,2023-11-23,Groceries,167.0,7,Credit Card,Late,61.0,Female,19,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1327,CUST154,2023-11-24,Groceries,418.0,5,Cash,Cancelled,46.0,Female,47,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1328,CUST166,2023-11-25,Home Decor,143.0,5,Cash,Late,24.0,Female,31,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1329,CUST118,2023-11-26,Home Decor,484.0,6,Cash,On Time,45.0,Other,21,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1330,CUST199,2023-11-27,Electronics,111.0,9,PayPal,Late,26.0,Other,6,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1331,CUST96,2023-11-28,Electronics,490.0,6,Credit Card,Late,45.0,Other,8,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1332,CUST40,2023-11-29,Home Decor,243.0,8,Cash,On Time,23.0,Other,44,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1333,CUST123,2023-11-30,Groceries,384.0,7,Debit Card,On Time,46.0,Other,0,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1334,CUST18,2023-12-01,Clothing,252.0,9,Debit Card,Cancelled,34.0,Other,28,<function <lambda> at 0x796a7ccaae60>,West,-1.0,Not Returned
+ORD1335,CUST130,2023-12-02,Home Decor,441.0,4,Debit Card,Cancelled,33.0,Other,7,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1336,CUST185,2023-12-03,Electronics,75.0,2,Debit Card,On Time,40.0,Other,3,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1337,CUST10,2023-12-04,Groceries,484.0,7,PayPal,On Time,48.0,Other,34,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1338,CUST153,2023-12-05,Home Decor,222.0,6,Cash,On Time,20.0,Female,2,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1339,CUST184,2023-12-06,Home Decor,349.0,1,Credit Card,Late,38.0,Other,44,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1340,CUST177,2023-12-07,Groceries,182.0,9,Cash,Late,43.0,Male,39,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1341,CUST132,2023-12-08,Home Decor,375.0,9,PayPal,Late,53.0,Female,6,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1342,CUST2,2023-12-09,Groceries,459.0,2,Debit Card,On Time,59.0,Other,26,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1343,CUST142,2023-12-10,Clothing,167.0,3,PayPal,Cancelled,54.0,Male,0,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1344,CUST175,2023-12-11,Groceries,373.0,5,Cash,On Time,39.0,Other,26,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1345,CUST177,2023-12-12,Groceries,324.0,5,Credit Card,Late,59.0,Male,15,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1346,CUST1,2023-12-13,Groceries,261.0,1,PayPal,Late,29.0,Male,37,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1347,CUST125,2023-12-14,Home Decor,274.0,8,Credit Card,On Time,59.0,Male,6,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1348,CUST12,2023-12-15,Home Decor,69.0,8,PayPal,On Time,30.0,Male,43,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1349,CUST14,2023-12-16,Groceries,162.0,4,Credit Card,Late,28.0,Female,22,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1350,CUST136,2023-12-17,Home Decor,189.0,7,Credit Card,Late,33.0,Female,40,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1351,CUST113,2023-12-18,Electronics,96.0,3,Debit Card,Late,25.0,Male,10,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1352,CUST168,2023-12-19,Electronics,50.0,6,Credit Card,On Time,57.0,Other,41,<function <lambda> at 0x796a7ccaae60>,South,4.0,Returned
+ORD1353,CUST165,2023-12-20,Home Decor,139.0,9,Debit Card,Late,57.0,Male,32,<function <lambda> at 0x796a7ccaae60>,North,5.0,Returned
+ORD1354,CUST143,2023-12-21,Home Decor,191.0,1,Cash,Late,62.0,Female,49,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1355,CUST158,2023-12-22,Groceries,369.0,5,Cash,Cancelled,19.0,Other,35,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1356,CUST123,2023-12-23,Clothing,87.0,4,Debit Card,On Time,47.0,Female,36,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1357,CUST76,2023-12-24,Home Decor,,8,Debit Card,Cancelled,47.0,Female,40,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1358,CUST30,2023-12-25,Electronics,431.0,1,PayPal,Cancelled,29.0,Other,16,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1359,CUST124,2023-12-26,Groceries,188.0,9,PayPal,Late,27.0,Male,34,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1360,CUST191,2023-12-27,Home Decor,405.0,6,PayPal,On Time,61.0,Male,47,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1361,CUST54,2023-12-28,Electronics,382.0,4,Cash,Late,28.0,Male,4,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1362,CUST162,2023-12-29,Electronics,308.0,9,PayPal,On Time,32.0,Male,47,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1363,CUST161,2023-12-30,Clothing,210.0,5,Credit Card,Cancelled,33.0,Other,31,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1364,CUST151,2023-12-31,Groceries,439.0,5,Credit Card,On Time,34.0,Other,2,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1365,CUST62,2024-01-01,Groceries,227.0,5,PayPal,Late,43.0,Other,46,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1366,CUST43,2024-01-02,Clothing,59.0,1,Credit Card,Late,19.0,Female,34,<function <lambda> at 0x796a7ccaae60>,East,,Not Returned
+ORD1367,CUST200,2024-01-03,Clothing,310.0,1,Cash,Late,67.0,Other,13,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1368,CUST110,2024-01-04,Groceries,456.0,8,Credit Card,On Time,29.0,Male,47,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1369,CUST199,2024-01-05,Groceries,187.0,8,Cash,Cancelled,68.0,Female,30,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1370,CUST34,2024-01-06,Home Decor,221.0,6,Debit Card,Cancelled,43.0,Male,30,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1371,CUST121,2024-01-07,Home Decor,435.0,4,Debit Card,On Time,40.0,Male,16,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1372,CUST21,2024-01-08,Clothing,62.0,2,Debit Card,Late,35.0,Other,23,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1373,CUST168,2024-01-09,Home Decor,217.0,2,Debit Card,Cancelled,49.0,Other,22,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1374,CUST5,2024-01-10,Electronics,179.0,9,Credit Card,Late,66.0,Male,17,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1375,CUST97,2024-01-11,Home Decor,133.0,5,PayPal,On Time,55.0,Male,49,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1376,CUST15,2024-01-12,Home Decor,370.0,4,Credit Card,Late,64.0,Female,13,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1377,CUST47,2024-01-13,Electronics,368.0,1,Cash,Cancelled,20.0,Other,49,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1378,CUST66,2024-01-14,Clothing,150.0,7,Credit Card,Cancelled,55.0,Female,14,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1379,CUST107,2024-01-15,Electronics,378.0,3,Credit Card,Late,20.0,Female,14,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1380,CUST21,2024-01-16,Home Decor,322.0,6,Cash,On Time,47.0,Female,5,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1381,CUST3,2024-01-17,Clothing,314.0,5,Debit Card,Late,18.0,Male,26,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1382,CUST190,2024-01-18,Home Decor,448.0,5,Debit Card,On Time,47.0,Female,14,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1383,CUST190,2024-01-19,Electronics,457.0,5,Debit Card,Late,62.0,Female,49,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1384,CUST44,2024-01-20,Electronics,87.0,1,PayPal,Cancelled,49.0,Male,35,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1385,CUST57,2024-01-21,Home Decor,468.0,1,Cash,On Time,45.0,Other,7,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1386,CUST73,2024-01-22,Groceries,143.0,3,Cash,On Time,38.0,Other,14,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1387,CUST92,2024-01-23,Groceries,144.0,4,Credit Card,On Time,63.0,Female,2,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1388,CUST135,2024-01-24,Electronics,354.0,5,PayPal,Cancelled,30.0,Male,46,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1389,CUST50,2024-01-25,Electronics,118.0,2,Debit Card,Late,44.0,Other,12,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1390,CUST6,2024-01-26,Groceries,,8,PayPal,Cancelled,53.0,Female,40,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1391,CUST42,2024-01-27,Groceries,493.0,2,Cash,On Time,24.0,Female,33,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1392,CUST86,2024-01-28,Home Decor,285.0,9,Cash,Late,39.0,Male,23,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1393,CUST177,2024-01-29,Home Decor,483.0,2,Credit Card,Cancelled,27.0,Female,39,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1394,CUST87,2024-01-30,Groceries,383.0,9,Credit Card,On Time,56.0,Other,31,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1395,CUST122,2024-01-31,Home Decor,422.0,7,Cash,On Time,32.0,Male,31,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1396,CUST23,2024-02-01,Home Decor,,8,Debit Card,Cancelled,32.0,Other,29,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1397,CUST87,2024-02-02,Clothing,186.0,2,Debit Card,Cancelled,21.0,Other,48,<function <lambda> at 0x796a7ccaae60>,West,1.0,Not Returned
+ORD1398,CUST39,2024-02-03,Home Decor,467.0,7,PayPal,Cancelled,49.0,Other,12,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1399,CUST61,2024-02-04,Electronics,125.0,6,Cash,On Time,40.0,Female,0,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1400,CUST107,2024-02-05,Home Decor,84.0,4,Cash,Cancelled,23.0,Female,33,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1401,CUST93,2024-02-06,Home Decor,50.0,7,Debit Card,On Time,41.0,Other,14,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1402,CUST134,2024-02-07,Groceries,345.0,4,Debit Card,Cancelled,37.0,Other,43,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1403,CUST109,2024-02-08,Electronics,369.0,2,Cash,On Time,54.0,Male,13,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1404,CUST57,2024-02-09,Home Decor,455.0,7,Credit Card,On Time,37.0,Male,28,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1405,CUST91,2024-02-10,Home Decor,109.0,8,Cash,Late,29.0,Female,33,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1406,CUST115,2024-02-11,Clothing,369.0,2,Cash,Cancelled,50.0,Female,17,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1407,CUST113,2024-02-12,Home Decor,398.0,5,Debit Card,Cancelled,45.0,Male,6,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1408,CUST145,2024-02-13,Home Decor,377.0,1,Debit Card,On Time,25.0,Other,28,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1409,CUST117,2024-02-14,Clothing,316.0,7,Credit Card,On Time,18.0,Female,30,<function <lambda> at 0x796a7ccaae60>,West,1.0,Not Returned
+ORD1410,CUST183,2024-02-15,Groceries,410.0,8,Credit Card,On Time,54.0,Other,24,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1411,CUST112,2024-02-16,Home Decor,278.0,6,PayPal,Late,39.0,Male,37,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1412,CUST9,2024-02-17,Clothing,319.0,5,Cash,Late,23.0,Female,13,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1413,CUST122,2024-02-18,Electronics,365.0,6,Debit Card,On Time,38.0,Female,7,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1414,CUST159,2024-02-19,Groceries,335.0,2,Credit Card,Cancelled,49.0,Male,26,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1415,CUST47,2024-02-20,Electronics,340.0,1,PayPal,Cancelled,52.0,Female,1,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1416,CUST84,2024-02-21,Electronics,262.0,7,PayPal,Late,32.0,Male,16,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1417,CUST85,2024-02-22,Clothing,214.0,7,Debit Card,Late,,Female,36,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1418,CUST55,2024-02-23,Home Decor,54.0,2,Debit Card,On Time,63.0,Male,13,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1419,CUST151,2024-02-24,Clothing,388.0,2,PayPal,Cancelled,67.0,Female,24,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1420,CUST92,2024-02-25,Clothing,428.0,1,Credit Card,On Time,65.0,Other,29,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1421,CUST57,2024-02-26,Clothing,127.0,8,PayPal,Late,23.0,Other,28,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1422,CUST38,2024-02-27,Clothing,459.0,8,Cash,Cancelled,42.0,Other,19,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1423,CUST63,2024-02-28,Groceries,111.0,1,Cash,Cancelled,63.0,Female,20,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1424,CUST187,2024-02-29,Home Decor,181.0,8,Debit Card,Late,57.0,Female,21,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1425,CUST112,2024-03-01,Electronics,138.0,9,Credit Card,On Time,46.0,Other,34,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1426,CUST25,2024-03-02,Electronics,286.0,4,Credit Card,On Time,24.0,Other,36,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1427,CUST3,2024-03-03,Home Decor,91.0,1,Cash,Cancelled,57.0,Male,15,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1428,CUST190,2024-03-04,Electronics,138.0,1,PayPal,Late,30.0,Male,49,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1429,CUST31,2024-03-05,Home Decor,,3,Debit Card,Cancelled,55.0,Male,48,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1430,CUST126,2024-03-06,Electronics,345.0,5,PayPal,Late,35.0,Other,42,<function <lambda> at 0x796a7ccaae60>,North,5.0,Returned
+ORD1431,CUST28,2024-03-07,Clothing,377.0,5,PayPal,On Time,19.0,Other,16,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1432,CUST121,2024-03-08,Electronics,344.0,9,PayPal,Late,25.0,Other,15,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1433,CUST75,2024-03-09,Home Decor,153.0,2,Credit Card,On Time,28.0,Male,1,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1434,CUST28,2024-03-10,Home Decor,63.0,2,Cash,Late,50.0,Female,3,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1435,CUST144,2024-03-11,Home Decor,337.0,6,Credit Card,Cancelled,55.0,Other,20,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1436,CUST27,2024-03-12,Home Decor,228.0,9,Cash,On Time,65.0,Female,38,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1437,CUST163,2024-03-13,Home Decor,174.0,1,Debit Card,Cancelled,44.0,Female,33,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1438,CUST3,2024-03-14,Groceries,471.0,9,Debit Card,Cancelled,37.0,Female,29,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1439,CUST179,2024-03-15,Groceries,402.0,9,PayPal,On Time,29.0,Male,5,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1440,CUST29,2024-03-16,Electronics,72.0,9,Cash,On Time,60.0,Female,16,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1441,CUST156,2024-03-17,Home Decor,112.0,5,Cash,Cancelled,48.0,Other,38,<function <lambda> at 0x796a7ccaae60>,West,,Returned
+ORD1442,CUST71,2024-03-18,Electronics,192.0,9,Cash,Cancelled,44.0,Male,24,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1443,CUST69,2024-03-19,Home Decor,202.0,4,PayPal,Cancelled,49.0,Other,4,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1444,CUST196,2024-03-20,Home Decor,194.0,2,PayPal,Cancelled,27.0,Other,4,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1445,CUST6,2024-03-21,Groceries,274.0,6,Debit Card,On Time,20.0,Male,19,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1446,CUST99,2024-03-22,Groceries,499.0,4,Credit Card,On Time,62.0,Other,15,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1447,CUST124,2024-03-23,Clothing,358.0,6,Cash,Cancelled,44.0,Other,40,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1448,CUST99,2024-03-24,Groceries,153.0,3,Cash,Late,52.0,Male,36,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1449,CUST136,2024-03-25,Clothing,153.0,6,Credit Card,Late,48.0,Other,39,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1450,CUST173,2024-03-26,Clothing,484.0,2,Cash,On Time,32.0,Female,8,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1451,CUST151,2024-03-27,Clothing,88.0,2,PayPal,Cancelled,33.0,Other,4,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1452,CUST9,2024-03-28,Clothing,484.0,9,PayPal,Cancelled,30.0,Female,41,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1453,CUST116,2024-03-29,Clothing,247.0,7,Cash,On Time,66.0,Other,1,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1454,CUST69,2024-03-30,Electronics,183.0,3,PayPal,Late,52.0,Male,8,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1455,CUST181,2024-03-31,Groceries,116.0,1,PayPal,Late,69.0,Male,42,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1456,CUST199,2024-04-01,Clothing,440.0,8,Cash,Late,28.0,Other,35,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1457,CUST128,2024-04-02,Home Decor,228.0,6,Debit Card,On Time,38.0,Male,21,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1458,CUST84,2024-04-03,Groceries,91.0,7,Credit Card,Late,68.0,Other,21,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1459,CUST128,2024-04-04,Groceries,497.0,9,PayPal,On Time,28.0,Male,21,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1460,CUST12,2024-04-05,Clothing,64.0,5,Debit Card,On Time,,Female,33,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1461,CUST86,2024-04-06,Electronics,160.0,1,PayPal,Cancelled,65.0,Other,28,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1462,CUST187,2024-04-07,Clothing,206.0,7,PayPal,Late,52.0,Female,37,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1463,CUST42,2024-04-08,Electronics,338.0,5,Credit Card,On Time,39.0,Female,45,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1464,CUST185,2024-04-09,Home Decor,280.0,3,PayPal,Late,55.0,Other,32,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1465,CUST25,2024-04-10,Groceries,460.0,9,Credit Card,Late,48.0,Female,17,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1466,CUST169,2024-04-11,Home Decor,469.0,1,Credit Card,Cancelled,31.0,Other,6,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1467,CUST15,2024-04-12,Electronics,206.0,1,Credit Card,Late,41.0,Female,0,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1468,CUST61,2024-04-13,Electronics,87.0,1,Debit Card,Cancelled,67.0,Other,32,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1469,CUST158,2024-04-14,Home Decor,490.0,3,Cash,On Time,66.0,Other,0,<function <lambda> at 0x796a7ccaae60>,East,-1.0,Not Returned
+ORD1470,CUST118,2024-04-15,Electronics,146.0,6,Debit Card,Late,49.0,Male,23,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1471,CUST11,2024-04-16,Home Decor,460.0,3,Cash,On Time,53.0,Other,3,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1472,CUST107,2024-04-17,Groceries,488.0,8,Cash,Late,49.0,Other,3,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1473,CUST94,2024-04-18,Home Decor,338.0,2,Credit Card,On Time,32.0,Female,17,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1474,CUST96,2024-04-19,Groceries,303.0,9,PayPal,Late,60.0,Other,26,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1475,CUST9,2024-04-20,Home Decor,245.0,3,Credit Card,Late,52.0,Male,42,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1476,CUST78,2024-04-21,Electronics,135.0,5,PayPal,Late,20.0,Female,31,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1477,CUST122,2024-04-22,Home Decor,371.0,8,Cash,Late,33.0,Female,32,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1478,CUST135,2024-04-23,Electronics,59.0,2,Credit Card,Late,22.0,Male,27,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1479,CUST32,2024-04-24,Home Decor,54.0,6,PayPal,Late,38.0,Female,41,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1480,CUST85,2024-04-25,Home Decor,172.0,5,Debit Card,Late,27.0,Female,40,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1481,CUST154,2024-04-26,Clothing,379.0,9,PayPal,Late,36.0,Female,35,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1482,CUST86,2024-04-27,Electronics,402.0,5,Credit Card,Late,42.0,Female,5,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1483,CUST7,2024-04-28,Clothing,5000.0,2,Debit Card,On Time,21.0,Male,15,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1484,CUST165,2024-04-29,Electronics,343.0,5,PayPal,Cancelled,46.0,Male,33,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1485,CUST63,2024-04-30,Clothing,,4,PayPal,Late,36.0,Female,22,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1486,CUST80,2024-05-01,Groceries,208.0,7,PayPal,Cancelled,60.0,Female,49,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1487,CUST130,2024-05-02,Home Decor,352.0,6,PayPal,Late,19.0,Male,41,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1488,CUST140,2024-05-03,Electronics,277.0,2,PayPal,Late,27.0,Male,23,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1489,CUST166,2024-05-04,Electronics,414.0,5,Debit Card,On Time,60.0,Male,48,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1490,CUST13,2024-05-05,Home Decor,265.0,7,Cash,On Time,42.0,Female,12,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1491,CUST52,2024-05-06,Electronics,485.0,7,Debit Card,Cancelled,37.0,Female,17,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1492,CUST32,2024-05-07,Electronics,233.0,5,Debit Card,On Time,65.0,Other,12,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1493,CUST57,2024-05-08,Clothing,64.0,9,Debit Card,On Time,36.0,Male,48,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1494,CUST86,2024-05-09,Electronics,206.0,4,Cash,Cancelled,40.0,Female,36,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1495,CUST10,2024-05-10,Groceries,185.0,3,Credit Card,On Time,41.0,Male,42,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1496,CUST161,2024-05-11,Groceries,310.0,4,Cash,Late,28.0,Female,38,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1497,CUST65,2024-05-12,Home Decor,206.0,5,Debit Card,Cancelled,63.0,Male,41,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1498,CUST85,2024-05-13,Electronics,96.0,6,PayPal,Cancelled,51.0,Female,16,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1499,CUST183,2024-05-14,Home Decor,373.0,3,PayPal,Late,45.0,Other,14,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1500,CUST74,2024-05-15,Groceries,381.0,2,Debit Card,On Time,22.0,Other,17,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1501,CUST69,2024-05-16,Electronics,222.0,4,PayPal,Cancelled,22.0,Male,22,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1502,CUST42,2024-05-17,Electronics,179.0,5,Debit Card,Cancelled,68.0,Female,29,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1503,CUST188,2024-05-18,Home Decor,460.0,4,PayPal,Late,38.0,Female,33,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1504,CUST18,2024-05-19,Groceries,,3,Cash,Late,29.0,Male,3,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1505,CUST192,2024-05-20,Electronics,164.0,8,Credit Card,On Time,67.0,Female,2,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1506,CUST85,2024-05-21,Home Decor,292.0,4,Credit Card,Cancelled,21.0,Male,6,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1507,CUST170,2024-05-22,Groceries,469.0,2,Cash,On Time,66.0,Female,17,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1508,CUST123,2024-05-23,Home Decor,341.0,2,Cash,On Time,59.0,Male,41,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1509,CUST110,2024-05-24,Clothing,5000.0,1,Debit Card,Late,37.0,Female,6,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1510,CUST73,2024-05-25,Electronics,348.0,4,Debit Card,Cancelled,55.0,Male,39,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1511,CUST116,2024-05-26,Clothing,332.0,9,Debit Card,Cancelled,42.0,Female,5,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1512,CUST32,2024-05-27,Groceries,118.0,7,PayPal,Cancelled,31.0,Other,21,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1513,CUST34,2024-05-28,Clothing,197.0,7,Debit Card,Late,28.0,Female,0,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1514,CUST23,2024-05-29,Clothing,60.0,7,Cash,Late,49.0,Male,3,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1515,CUST187,2024-05-30,Groceries,303.0,8,Credit Card,Late,28.0,Other,45,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1516,CUST41,2024-05-31,Home Decor,379.0,1,PayPal,Late,35.0,Female,48,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1517,CUST167,2024-06-01,Clothing,409.0,8,Debit Card,Late,44.0,Other,49,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1518,CUST142,2024-06-02,Home Decor,87.0,4,PayPal,Cancelled,35.0,Female,42,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1519,CUST178,2024-06-03,Clothing,183.0,4,PayPal,On Time,40.0,Other,28,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1520,CUST135,2024-06-04,Home Decor,249.0,4,Debit Card,Cancelled,28.0,Male,20,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1521,CUST48,2024-06-05,Groceries,72.0,6,PayPal,On Time,38.0,Female,25,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1522,CUST196,2024-06-06,Clothing,352.0,7,Credit Card,Late,61.0,Female,13,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1523,CUST42,2024-06-07,Groceries,395.0,6,Cash,On Time,,Male,8,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1524,CUST90,2024-06-08,Clothing,351.0,1,Cash,Cancelled,40.0,Other,46,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1525,CUST62,2024-06-09,Groceries,412.0,8,Credit Card,Cancelled,58.0,Male,11,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1526,CUST193,2024-06-10,Groceries,445.0,7,PayPal,On Time,42.0,Male,41,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1527,CUST9,2024-06-11,Clothing,267.0,6,Debit Card,Late,58.0,Other,5,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1528,CUST109,2024-06-12,Clothing,190.0,6,PayPal,Late,27.0,Male,19,<function <lambda> at 0x796a7ccaae60>,South,4.0,Returned
+ORD1529,CUST142,2024-06-13,Clothing,153.0,5,Credit Card,Cancelled,39.0,Female,23,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1530,CUST69,2024-06-14,Electronics,495.0,6,PayPal,On Time,36.0,Female,26,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1531,CUST171,2024-06-15,Home Decor,259.0,9,Cash,Late,18.0,Female,37,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1532,CUST1,2024-06-16,Electronics,160.0,9,PayPal,Late,24.0,Male,7,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1533,CUST16,2024-06-17,Electronics,153.0,8,Credit Card,Cancelled,21.0,Female,0,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1534,CUST73,2024-06-18,Groceries,365.0,9,Cash,Late,18.0,Female,48,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1535,CUST122,2024-06-19,Clothing,220.0,8,PayPal,On Time,32.0,Female,48,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1536,CUST172,2024-06-20,Home Decor,405.0,8,PayPal,Cancelled,57.0,Female,23,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1537,CUST80,2024-06-21,Groceries,373.0,1,Cash,Cancelled,29.0,Female,46,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1538,CUST68,2024-06-22,Electronics,182.0,5,Debit Card,On Time,39.0,Female,6,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1539,CUST78,2024-06-23,Clothing,425.0,4,Cash,Cancelled,39.0,Male,18,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1540,CUST190,2024-06-24,Groceries,342.0,2,Debit Card,Late,67.0,Female,21,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1541,CUST189,2024-06-25,Clothing,377.0,8,Credit Card,Late,64.0,Female,34,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1542,CUST193,2024-06-26,Groceries,176.0,3,Credit Card,On Time,34.0,Other,29,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1543,CUST165,2024-06-27,Clothing,155.0,4,Cash,Late,46.0,Male,28,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1544,CUST20,2024-06-28,Electronics,141.0,7,Cash,On Time,63.0,Male,21,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1545,CUST144,2024-06-29,Home Decor,336.0,9,Credit Card,On Time,31.0,Male,10,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1546,CUST159,2024-06-30,Electronics,427.0,2,Debit Card,Late,67.0,Male,19,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1547,CUST45,2024-07-01,Home Decor,442.0,3,Credit Card,On Time,37.0,Female,28,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1548,CUST115,2024-07-02,Clothing,100.0,4,Cash,Late,67.0,Female,40,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1549,CUST68,2024-07-03,Groceries,78.0,1,Credit Card,Cancelled,65.0,Other,41,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1550,CUST137,2024-07-04,Electronics,345.0,7,Cash,Cancelled,50.0,Other,33,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1551,CUST105,2024-07-05,Home Decor,346.0,2,Cash,On Time,60.0,Male,0,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1552,CUST101,2024-07-06,Electronics,263.0,5,Credit Card,Late,32.0,Other,30,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1553,CUST181,2024-07-07,Home Decor,316.0,1,Debit Card,Late,29.0,Other,29,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1554,CUST60,2024-07-08,Electronics,456.0,3,PayPal,Cancelled,57.0,Male,47,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1555,CUST15,2024-07-09,Home Decor,306.0,2,Credit Card,Cancelled,37.0,Male,17,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1556,CUST44,2024-07-10,Home Decor,351.0,1,PayPal,Late,47.0,Other,16,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1557,CUST64,2024-07-11,Clothing,150.0,7,Credit Card,On Time,55.0,Female,37,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1558,CUST39,2024-07-12,Home Decor,454.0,5,PayPal,Cancelled,20.0,Other,13,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1559,CUST114,2024-07-13,Clothing,395.0,1,Debit Card,On Time,45.0,Other,22,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1560,CUST101,2024-07-14,Home Decor,159.0,6,Debit Card,On Time,43.0,Female,24,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1561,CUST122,2024-07-15,Groceries,469.0,5,Credit Card,Cancelled,47.0,Female,14,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1562,CUST179,2024-07-16,Groceries,231.0,3,Cash,On Time,30.0,Male,45,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1563,CUST11,2024-07-17,Groceries,362.0,7,PayPal,On Time,30.0,Male,21,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1564,CUST181,2024-07-18,Home Decor,50.0,9,Cash,Late,19.0,Other,2,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1565,CUST110,2024-07-19,Clothing,368.0,9,Cash,On Time,54.0,Female,18,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1566,CUST67,2024-07-20,Clothing,487.0,9,Cash,Late,66.0,Male,43,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1567,CUST125,2024-07-21,Home Decor,104.0,2,Debit Card,Cancelled,55.0,Other,33,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1568,CUST104,2024-07-22,Groceries,420.0,3,Credit Card,Cancelled,19.0,Female,34,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1569,CUST99,2024-07-23,Groceries,473.0,7,Credit Card,Late,53.0,Other,49,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1570,CUST129,2024-07-24,Clothing,448.0,5,Debit Card,Cancelled,43.0,Male,0,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1571,CUST7,2024-07-25,Groceries,198.0,2,Debit Card,On Time,28.0,Male,20,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1572,CUST75,2024-07-26,Electronics,480.0,3,Credit Card,On Time,25.0,Female,28,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1573,CUST72,2024-07-27,Clothing,358.0,6,Cash,On Time,61.0,Other,5,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1574,CUST43,2024-07-28,Groceries,186.0,7,PayPal,Cancelled,57.0,Female,36,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1575,CUST184,2024-07-29,Clothing,251.0,9,PayPal,On Time,60.0,Male,0,<function <lambda> at 0x796a7ccaae60>,North,5.0,Returned
+ORD1576,CUST153,2024-07-30,Electronics,485.0,1,PayPal,Cancelled,39.0,Male,0,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1577,CUST12,2024-07-31,Clothing,362.0,7,Cash,On Time,37.0,Other,26,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1578,CUST157,2024-08-01,Clothing,166.0,8,Credit Card,Late,25.0,Other,20,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1579,CUST133,2024-08-02,Clothing,203.0,3,Debit Card,Cancelled,46.0,Other,15,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1580,CUST93,2024-08-03,Clothing,474.0,4,Credit Card,Cancelled,57.0,Female,43,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1581,CUST5,2024-08-04,Electronics,340.0,6,Cash,On Time,43.0,Other,39,<function <lambda> at 0x796a7ccaae60>,South,4.0,Returned
+ORD1582,CUST196,2024-08-05,Home Decor,112.0,7,Debit Card,Cancelled,47.0,Other,25,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1583,CUST77,2024-08-06,Clothing,293.0,4,Cash,Cancelled,34.0,Male,15,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1584,CUST104,2024-08-07,Clothing,74.0,8,PayPal,Late,37.0,Male,27,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1585,CUST117,2024-08-08,Groceries,139.0,5,PayPal,Late,69.0,Other,0,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1586,CUST7,2024-08-09,Clothing,124.0,1,Cash,On Time,33.0,Other,35,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1587,CUST6,2024-08-10,Groceries,343.0,4,Debit Card,Late,63.0,Male,9,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1588,CUST114,2024-08-11,Home Decor,435.0,3,Debit Card,On Time,60.0,Other,42,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1589,CUST100,2024-08-12,Electronics,440.0,9,Credit Card,On Time,24.0,Female,16,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1590,CUST160,2024-08-13,Electronics,259.0,8,PayPal,On Time,33.0,Female,22,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1591,CUST87,2024-08-14,Home Decor,467.0,1,Credit Card,Cancelled,62.0,Female,6,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1592,CUST85,2024-08-15,Electronics,396.0,6,Credit Card,Late,64.0,Other,43,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1593,CUST200,2024-08-16,Home Decor,66.0,9,Cash,On Time,65.0,Male,6,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1594,CUST84,2024-08-17,Home Decor,177.0,7,Cash,Late,44.0,Other,43,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1595,CUST116,2024-08-18,Home Decor,476.0,4,Credit Card,On Time,40.0,Other,14,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1596,CUST84,2024-08-19,Electronics,492.0,1,PayPal,Late,41.0,Male,33,<function <lambda> at 0x796a7ccaae60>,West,1.0,Not Returned
+ORD1597,CUST43,2024-08-20,Groceries,413.0,2,Cash,Late,26.0,Male,45,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1598,CUST114,2024-08-21,Home Decor,300.0,5,Credit Card,On Time,52.0,Male,44,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1599,CUST47,2024-08-22,Clothing,228.0,5,Credit Card,Cancelled,68.0,Female,3,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1600,CUST91,2024-08-23,Electronics,231.0,8,Credit Card,Late,37.0,Other,13,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1601,CUST150,2024-08-24,Home Decor,201.0,6,Credit Card,Cancelled,54.0,Male,13,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1602,CUST72,2024-08-25,Home Decor,74.0,8,Credit Card,Cancelled,59.0,Other,15,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1603,CUST76,2024-08-26,Clothing,229.0,2,Credit Card,On Time,34.0,Female,6,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1604,CUST175,2024-08-27,Groceries,247.0,3,Cash,On Time,64.0,Female,31,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1605,CUST53,2024-08-28,Groceries,393.0,6,PayPal,On Time,48.0,Male,18,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1606,CUST43,2024-08-29,Groceries,210.0,3,Credit Card,Late,25.0,Male,1,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1607,CUST46,2024-08-30,Home Decor,226.0,6,Debit Card,On Time,32.0,Other,9,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1608,CUST163,2024-08-31,Home Decor,334.0,6,Cash,On Time,48.0,Male,49,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1609,CUST20,2024-09-01,Home Decor,112.0,2,Cash,Late,47.0,Other,16,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1610,CUST121,2024-09-02,Electronics,199.0,7,Credit Card,Late,63.0,Male,36,<function <lambda> at 0x796a7ccaae60>,North,5.0,Returned
+ORD1611,CUST112,2024-09-03,Clothing,203.0,2,Cash,On Time,37.0,Other,11,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1612,CUST83,2024-09-04,Home Decor,205.0,6,Credit Card,On Time,56.0,Other,5,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1613,CUST16,2024-09-05,Clothing,419.0,1,PayPal,On Time,29.0,Other,21,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1614,CUST195,2024-09-06,Clothing,98.0,3,PayPal,On Time,66.0,Other,31,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1615,CUST75,2024-09-07,Groceries,386.0,2,Cash,Cancelled,34.0,Female,40,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1616,CUST47,2024-09-08,Electronics,133.0,7,Cash,Cancelled,59.0,Other,19,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1617,CUST56,2024-09-09,Home Decor,410.0,4,Debit Card,On Time,47.0,Male,0,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1618,CUST18,2024-09-10,Groceries,226.0,8,Cash,Cancelled,46.0,Female,46,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1619,CUST149,2024-09-11,Groceries,197.0,6,Debit Card,Late,36.0,Female,5,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1620,CUST149,2024-09-12,Home Decor,167.0,4,PayPal,Cancelled,63.0,Other,18,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1621,CUST106,2024-09-13,Clothing,391.0,5,PayPal,Cancelled,28.0,Female,17,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1622,CUST58,2024-09-14,Groceries,112.0,9,Credit Card,On Time,51.0,Other,5,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1623,CUST71,2024-09-15,Clothing,238.0,7,PayPal,Cancelled,67.0,Male,44,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1624,CUST82,2024-09-16,Electronics,409.0,9,Debit Card,Cancelled,24.0,Other,32,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1625,CUST84,2024-09-17,Clothing,98.0,7,Cash,Cancelled,61.0,Female,22,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1626,CUST131,2024-09-18,Electronics,376.0,1,Credit Card,Cancelled,51.0,Male,22,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1627,CUST69,2024-09-19,Clothing,306.0,8,Debit Card,Late,37.0,Other,25,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1628,CUST72,2024-09-20,Groceries,273.0,4,Cash,On Time,67.0,Male,12,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1629,CUST180,2024-09-21,Groceries,190.0,3,Credit Card,On Time,55.0,Male,6,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1630,CUST68,2024-09-22,Electronics,264.0,7,PayPal,Late,41.0,Female,14,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1631,CUST60,2024-09-23,Home Decor,484.0,3,Debit Card,Cancelled,27.0,Male,43,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1632,CUST46,2024-09-24,Electronics,428.0,8,Cash,Late,49.0,Female,26,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1633,CUST106,2024-09-25,Electronics,489.0,6,Credit Card,Cancelled,69.0,Male,25,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1634,CUST22,2024-09-26,Clothing,260.0,5,Credit Card,Late,32.0,Other,32,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1635,CUST17,2024-09-27,Clothing,367.0,4,PayPal,On Time,54.0,Male,14,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1636,CUST53,2024-09-28,Electronics,81.0,8,Cash,On Time,37.0,Other,35,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1637,CUST113,2024-09-29,Groceries,207.0,8,PayPal,On Time,20.0,Other,44,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1638,CUST121,2024-09-30,Clothing,334.0,1,PayPal,Cancelled,54.0,Male,26,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1639,CUST164,2024-10-01,Home Decor,354.0,9,Cash,Cancelled,57.0,Other,4,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1640,CUST131,2024-10-02,Clothing,478.0,5,Cash,Late,25.0,Male,1,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1641,CUST200,2024-10-03,Clothing,335.0,4,Cash,Late,57.0,Male,32,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1642,CUST105,2024-10-04,Home Decor,193.0,6,Debit Card,On Time,61.0,Other,15,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1643,CUST57,2024-10-05,Electronics,473.0,6,Cash,Cancelled,40.0,Other,22,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1644,CUST177,2024-10-06,Home Decor,68.0,2,Credit Card,Late,57.0,Female,37,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1645,CUST43,2024-10-07,Electronics,67.0,8,PayPal,Cancelled,28.0,Other,15,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1646,CUST155,2024-10-08,Electronics,306.0,7,Debit Card,Cancelled,63.0,Female,13,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1647,CUST30,2024-10-09,Electronics,127.0,1,Cash,On Time,25.0,Other,28,<function <lambda> at 0x796a7ccaae60>,North,5.0,Returned
+ORD1648,CUST48,2024-10-10,Home Decor,420.0,5,Debit Card,On Time,46.0,Male,25,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1649,CUST200,2024-10-11,Electronics,224.0,6,Cash,Cancelled,47.0,Other,34,<function <lambda> at 0x796a7ccaae60>,West,1.0,Not Returned
+ORD1650,CUST29,2024-10-12,Groceries,243.0,4,Debit Card,Cancelled,27.0,Male,14,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1651,CUST198,2024-10-13,Home Decor,162.0,2,PayPal,Cancelled,56.0,Male,2,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1652,CUST44,2024-10-14,Groceries,163.0,4,PayPal,Cancelled,45.0,Male,22,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1653,CUST125,2024-10-15,Electronics,271.0,1,Credit Card,On Time,66.0,Female,28,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1654,CUST99,2024-10-16,Clothing,215.0,7,Credit Card,Late,53.0,Other,33,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1655,CUST187,2024-10-17,Electronics,484.0,2,Cash,On Time,30.0,Male,32,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1656,CUST127,2024-10-18,Groceries,368.0,2,PayPal,Late,49.0,Male,40,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1657,CUST153,2024-10-19,Groceries,181.0,9,Debit Card,Cancelled,53.0,Female,40,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1658,CUST68,2024-10-20,Home Decor,434.0,5,Debit Card,Late,54.0,Other,22,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1659,CUST153,2024-10-21,Clothing,313.0,2,Debit Card,On Time,43.0,Other,6,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1660,CUST108,2024-10-22,Home Decor,462.0,9,Credit Card,On Time,39.0,Female,2,<function <lambda> at 0x796a7ccaae60>,West,1.0,Not Returned
+ORD1661,CUST15,2024-10-23,Groceries,104.0,9,Debit Card,Cancelled,21.0,Female,31,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1662,CUST32,2024-10-24,Electronics,408.0,1,Credit Card,On Time,48.0,Other,30,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1663,CUST80,2024-10-25,Clothing,180.0,3,Credit Card,Cancelled,35.0,Female,17,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1664,CUST68,2024-10-26,Electronics,337.0,4,Cash,On Time,55.0,Other,42,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1665,CUST157,2024-10-27,Electronics,315.0,7,Debit Card,On Time,41.0,Other,6,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1666,CUST98,2024-10-28,Clothing,415.0,4,Debit Card,Cancelled,40.0,Male,40,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1667,CUST178,2024-10-29,Home Decor,211.0,2,PayPal,Late,39.0,Male,0,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1668,CUST112,2024-10-30,Electronics,429.0,7,Cash,On Time,19.0,Other,13,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1669,CUST179,2024-10-31,Groceries,,6,PayPal,Late,48.0,Other,31,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1670,CUST115,2024-11-01,Electronics,104.0,3,Cash,On Time,28.0,Other,5,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1671,CUST198,2024-11-02,Clothing,337.0,6,Debit Card,On Time,45.0,Other,38,<function <lambda> at 0x796a7ccaae60>,West,1.0,Not Returned
+ORD1672,CUST28,2024-11-03,Clothing,227.0,6,Credit Card,On Time,63.0,Other,9,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1673,CUST177,2024-11-04,Clothing,440.0,5,Credit Card,On Time,49.0,Other,6,<function <lambda> at 0x796a7ccaae60>,North,5.0,Returned
+ORD1674,CUST40,2024-11-05,Home Decor,398.0,4,Credit Card,Late,22.0,Female,25,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1675,CUST73,2024-11-06,Electronics,57.0,1,Credit Card,Late,55.0,Other,33,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1676,CUST108,2024-11-07,Home Decor,370.0,6,Credit Card,On Time,,Female,29,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1677,CUST186,2024-11-08,Home Decor,362.0,2,PayPal,On Time,57.0,Female,35,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1678,CUST125,2024-11-09,Clothing,296.0,3,Cash,Late,63.0,Other,20,<function <lambda> at 0x796a7ccaae60>,West,1.0,Not Returned
+ORD1679,CUST54,2024-11-10,Clothing,372.0,8,Debit Card,Cancelled,41.0,Other,16,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1680,CUST118,2024-11-11,Home Decor,492.0,6,PayPal,Cancelled,52.0,Female,32,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1681,CUST174,2024-11-12,Electronics,304.0,3,Cash,Late,61.0,Female,9,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1682,CUST116,2024-11-13,Groceries,377.0,7,Credit Card,On Time,65.0,Other,46,<function <lambda> at 0x796a7ccaae60>,North,5.0,Returned
+ORD1683,CUST150,2024-11-14,Home Decor,103.0,4,Cash,On Time,40.0,Other,41,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1684,CUST28,2024-11-15,Electronics,298.0,9,Cash,Cancelled,34.0,Female,11,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1685,CUST188,2024-11-16,Clothing,288.0,5,Credit Card,Cancelled,18.0,Female,15,<function <lambda> at 0x796a7ccaae60>,South,4.0,Returned
+ORD1686,CUST76,2024-11-17,Clothing,278.0,3,Credit Card,Late,48.0,Female,40,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1687,CUST169,2024-11-18,Electronics,116.0,2,Credit Card,Cancelled,48.0,Male,31,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1688,CUST182,2024-11-19,Groceries,100.0,2,Debit Card,Late,59.0,Female,14,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1689,CUST78,2024-11-20,Clothing,146.0,3,Credit Card,Cancelled,59.0,Male,26,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1690,CUST47,2024-11-21,Clothing,141.0,2,Debit Card,Cancelled,51.0,Other,27,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1691,CUST21,2024-11-22,Clothing,313.0,4,Credit Card,Cancelled,26.0,Other,16,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1692,CUST144,2024-11-23,Electronics,467.0,2,Debit Card,On Time,39.0,Female,45,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1693,CUST111,2024-11-24,Home Decor,340.0,9,Cash,On Time,30.0,Other,49,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1694,CUST170,2024-11-25,Clothing,145.0,2,PayPal,On Time,42.0,Other,1,<function <lambda> at 0x796a7ccaae60>,South,,Not Returned
+ORD1695,CUST115,2024-11-26,Home Decor,137.0,9,Cash,Cancelled,65.0,Other,35,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1696,CUST67,2024-11-27,Groceries,127.0,6,Cash,Late,35.0,Other,49,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1697,CUST40,2024-11-28,Clothing,337.0,1,Credit Card,Late,68.0,Male,6,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1698,CUST124,2024-11-29,Clothing,169.0,4,Debit Card,Late,29.0,Male,12,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1699,CUST57,2024-11-30,Groceries,351.0,1,PayPal,Late,57.0,Female,14,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1700,CUST104,2024-12-01,Clothing,449.0,6,Credit Card,On Time,34.0,Female,24,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1701,CUST130,2024-12-02,Home Decor,214.0,4,Credit Card,On Time,32.0,Female,22,<function <lambda> at 0x796a7ccaae60>,North,,Not Returned
+ORD1702,CUST50,2024-12-03,Electronics,231.0,3,Credit Card,Cancelled,59.0,Other,21,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1703,CUST156,2024-12-04,Home Decor,,3,Cash,Cancelled,32.0,Other,25,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1704,CUST27,2024-12-05,Electronics,272.0,9,Debit Card,Late,32.0,Male,32,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1705,CUST78,2024-12-06,Electronics,360.0,6,Debit Card,On Time,56.0,Male,10,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1706,CUST190,2024-12-07,Home Decor,481.0,9,PayPal,Late,30.0,Female,9,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1707,CUST46,2024-12-08,Home Decor,56.0,5,Debit Card,Cancelled,34.0,Male,24,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1708,CUST40,2024-12-09,Home Decor,379.0,2,Debit Card,Cancelled,49.0,Male,36,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1709,CUST182,2024-12-10,Home Decor,312.0,8,Credit Card,Late,26.0,Male,47,<function <lambda> at 0x796a7ccaae60>,East,-1.0,Not Returned
+ORD1710,CUST24,2024-12-11,Groceries,210.0,5,Credit Card,Cancelled,57.0,Male,42,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1711,CUST74,2024-12-12,Clothing,200.0,2,Cash,Late,37.0,Male,37,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1712,CUST34,2024-12-13,Electronics,134.0,4,Credit Card,On Time,43.0,Female,40,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1713,CUST74,2024-12-14,Home Decor,196.0,9,Credit Card,Late,,Female,44,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1714,CUST119,2024-12-15,Home Decor,161.0,4,Credit Card,On Time,38.0,Male,23,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1715,CUST50,2024-12-16,Home Decor,430.0,4,Credit Card,On Time,35.0,Female,39,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1716,CUST156,2024-12-17,Groceries,452.0,2,Cash,Cancelled,30.0,Other,45,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1717,CUST159,2024-12-18,Home Decor,85.0,6,Credit Card,Cancelled,33.0,Male,32,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1718,CUST38,2024-12-19,Home Decor,334.0,2,PayPal,Cancelled,,Other,16,<function <lambda> at 0x796a7ccaae60>,South,4.0,Returned
+ORD1719,CUST189,2024-12-20,Home Decor,237.0,7,PayPal,Late,29.0,Female,23,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1720,CUST161,2024-12-21,Clothing,131.0,3,PayPal,Late,61.0,Female,36,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1721,CUST134,2024-12-22,Groceries,51.0,3,PayPal,Cancelled,55.0,Other,1,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1722,CUST100,2024-12-23,Home Decor,434.0,5,Credit Card,Late,36.0,Female,31,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1723,CUST51,2024-12-24,Electronics,352.0,3,PayPal,Cancelled,24.0,Male,23,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1724,CUST6,2024-12-25,Electronics,246.0,2,Credit Card,Late,52.0,Other,8,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1725,CUST155,2024-12-26,Electronics,453.0,9,Cash,On Time,65.0,Male,3,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1726,CUST42,2024-12-27,Groceries,60.0,2,PayPal,On Time,35.0,Other,16,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1727,CUST133,2024-12-28,Groceries,283.0,2,Debit Card,Cancelled,33.0,Female,16,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1728,CUST24,2024-12-29,Electronics,435.0,8,PayPal,Late,56.0,Other,49,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1729,CUST174,2024-12-30,Home Decor,244.0,9,PayPal,Late,21.0,Other,47,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1730,CUST180,2024-12-31,Groceries,168.0,7,Credit Card,On Time,42.0,Male,29,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1731,CUST61,2025-01-01,Electronics,445.0,3,PayPal,On Time,49.0,Female,39,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1732,CUST186,2025-01-02,Electronics,69.0,9,Debit Card,Cancelled,57.0,Male,10,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1733,CUST172,2025-01-03,Home Decor,310.0,3,Credit Card,On Time,30.0,Female,20,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1734,CUST94,2025-01-04,Clothing,342.0,5,Credit Card,Cancelled,62.0,Male,20,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1735,CUST82,2025-01-05,Groceries,471.0,9,Cash,On Time,34.0,Other,17,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1736,CUST89,2025-01-06,Home Decor,305.0,3,Cash,On Time,66.0,Male,28,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1737,CUST72,2025-01-07,Electronics,271.0,7,PayPal,Late,54.0,Female,23,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1738,CUST105,2025-01-08,Electronics,442.0,1,Cash,On Time,23.0,Female,9,<function <lambda> at 0x796a7ccaae60>,West,1.0,Not Returned
+ORD1739,CUST195,2025-01-09,Home Decor,275.0,4,Cash,On Time,36.0,Other,44,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1740,CUST149,2025-01-10,Groceries,102.0,4,Cash,Cancelled,30.0,Female,16,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1741,CUST6,2025-01-11,Clothing,477.0,7,Credit Card,On Time,43.0,Male,17,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1742,CUST121,2025-01-12,Clothing,404.0,8,Credit Card,Cancelled,31.0,Other,41,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1743,CUST91,2025-01-13,Electronics,391.0,1,Credit Card,On Time,48.0,Female,47,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1744,CUST176,2025-01-14,Groceries,413.0,5,Cash,On Time,21.0,Female,19,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1745,CUST109,2025-01-15,Clothing,329.0,7,Credit Card,Cancelled,56.0,Male,36,<function <lambda> at 0x796a7ccaae60>,South,4.0,Returned
+ORD1746,CUST164,2025-01-16,Groceries,130.0,4,Cash,Late,25.0,Male,44,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1747,CUST101,2025-01-17,Groceries,251.0,4,Credit Card,Cancelled,42.0,Other,17,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1748,CUST176,2025-01-18,Electronics,207.0,4,Credit Card,Cancelled,30.0,Female,16,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1749,CUST113,2025-01-19,Clothing,169.0,6,Debit Card,Cancelled,49.0,Male,8,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1750,CUST39,2025-01-20,Home Decor,108.0,7,PayPal,Late,55.0,Other,13,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1751,CUST80,2025-01-21,Electronics,264.0,2,Cash,On Time,,Female,48,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1752,CUST163,2025-01-22,Clothing,177.0,5,Debit Card,Cancelled,45.0,Female,28,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1753,CUST41,2025-01-23,Clothing,273.0,4,Credit Card,Cancelled,47.0,Other,30,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1754,CUST182,2025-01-24,Clothing,258.0,3,Cash,Late,20.0,Other,3,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1755,CUST44,2025-01-25,Clothing,419.0,7,Credit Card,Cancelled,45.0,Male,17,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1756,CUST108,2025-01-26,Clothing,164.0,6,PayPal,On Time,20.0,Female,19,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1757,CUST158,2025-01-27,Groceries,258.0,7,Debit Card,Late,62.0,Female,46,<function <lambda> at 0x796a7ccaae60>,North,5.0,Returned
+ORD1758,CUST123,2025-01-28,Electronics,63.0,5,PayPal,On Time,51.0,Female,42,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1759,CUST121,2025-01-29,Groceries,58.0,6,Debit Card,On Time,33.0,Other,43,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1760,CUST85,2025-01-30,Home Decor,89.0,5,Credit Card,Late,39.0,Male,8,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1761,CUST7,2025-01-31,Clothing,499.0,7,PayPal,Cancelled,49.0,Female,12,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1762,CUST110,2025-02-01,Electronics,286.0,2,PayPal,On Time,55.0,Other,14,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1763,CUST198,2025-02-02,Clothing,330.0,5,Credit Card,On Time,25.0,Female,26,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1764,CUST183,2025-02-03,Electronics,408.0,6,PayPal,On Time,25.0,Male,14,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1765,CUST136,2025-02-04,Groceries,250.0,6,Cash,On Time,23.0,Female,27,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1766,CUST170,2025-02-05,Electronics,295.0,5,Debit Card,Late,31.0,Male,36,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1767,CUST163,2025-02-06,Home Decor,327.0,7,Debit Card,Late,49.0,Male,18,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1768,CUST38,2025-02-07,Home Decor,284.0,8,Debit Card,On Time,52.0,Female,25,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1769,CUST183,2025-02-08,Electronics,53.0,7,Cash,Cancelled,27.0,Female,25,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1770,CUST170,2025-02-09,Electronics,203.0,5,Debit Card,On Time,20.0,Male,24,<function <lambda> at 0x796a7ccaae60>,North,3.0,Returned
+ORD1771,CUST51,2025-02-10,Electronics,491.0,1,Credit Card,Cancelled,29.0,Other,25,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1772,CUST18,2025-02-11,Electronics,78.0,5,PayPal,On Time,66.0,Male,25,<function <lambda> at 0x796a7ccaae60>,West,1.0,Not Returned
+ORD1773,CUST113,2025-02-12,Home Decor,158.0,2,Cash,Cancelled,48.0,Female,45,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1774,CUST3,2025-02-13,Clothing,147.0,5,Debit Card,On Time,46.0,Female,27,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1775,CUST117,2025-02-14,Electronics,264.0,5,Credit Card,Cancelled,22.0,Other,48,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1776,CUST171,2025-02-15,Electronics,342.0,2,PayPal,On Time,69.0,Male,17,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1777,CUST139,2025-02-16,Home Decor,124.0,5,PayPal,On Time,42.0,Male,31,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1778,CUST66,2025-02-17,Home Decor,375.0,4,Cash,Cancelled,58.0,Male,2,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1779,CUST27,2025-02-18,Groceries,195.0,1,Cash,Late,48.0,Female,1,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1780,CUST88,2025-02-19,Electronics,177.0,3,Cash,Cancelled,38.0,Male,32,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1781,CUST108,2025-02-20,Groceries,390.0,1,Credit Card,Late,37.0,Other,41,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1782,CUST100,2025-02-21,Home Decor,91.0,5,Credit Card,On Time,56.0,Female,18,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1783,CUST173,2025-02-22,Home Decor,405.0,4,Cash,Cancelled,39.0,Female,16,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1784,CUST63,2025-02-23,Clothing,90.0,7,Debit Card,Cancelled,21.0,Male,43,<function <lambda> at 0x796a7ccaae60>,South,4.0,Returned
+ORD1785,CUST62,2025-02-24,Electronics,471.0,5,PayPal,Cancelled,30.0,Other,32,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1786,CUST177,2025-02-25,Groceries,83.0,4,PayPal,Late,62.0,Female,11,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1787,CUST54,2025-02-26,Home Decor,66.0,2,Credit Card,Late,59.0,Female,48,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1788,CUST97,2025-02-27,Home Decor,214.0,4,PayPal,On Time,67.0,Male,2,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1789,CUST42,2025-02-28,Groceries,202.0,2,Debit Card,Late,66.0,Male,42,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1790,CUST198,2025-03-01,Clothing,427.0,8,PayPal,Late,37.0,Other,48,<function <lambda> at 0x796a7ccaae60>,West,5.0,Returned
+ORD1791,CUST113,2025-03-02,Home Decor,125.0,3,Credit Card,On Time,69.0,Male,25,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1792,CUST105,2025-03-03,Electronics,136.0,9,Credit Card,Cancelled,30.0,Other,34,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1793,CUST136,2025-03-04,Home Decor,166.0,4,Debit Card,Cancelled,34.0,Female,7,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1794,CUST27,2025-03-05,Electronics,411.0,6,Debit Card,On Time,53.0,Other,35,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1795,CUST97,2025-03-06,Groceries,391.0,5,PayPal,Cancelled,50.0,Other,6,<function <lambda> at 0x796a7ccaae60>,South,4.0,Returned
+ORD1796,CUST81,2025-03-07,Electronics,76.0,1,PayPal,Late,18.0,Other,45,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1797,CUST47,2025-03-08,Groceries,362.0,9,Credit Card,On Time,32.0,Female,45,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1798,CUST65,2025-03-09,Electronics,336.0,1,Debit Card,On Time,30.0,Male,35,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1799,CUST24,2025-03-10,Groceries,183.0,8,Debit Card,On Time,34.0,Female,15,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1800,CUST120,2025-03-11,Electronics,268.0,9,Debit Card,Cancelled,41.0,Male,23,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1801,CUST49,2025-03-12,Clothing,217.0,9,PayPal,On Time,25.0,Other,0,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1802,CUST31,2025-03-13,Electronics,,1,Debit Card,On Time,67.0,Other,48,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1803,CUST46,2025-03-14,Electronics,317.0,2,Credit Card,On Time,44.0,Other,24,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1804,CUST160,2025-03-15,Clothing,286.0,1,Credit Card,Cancelled,62.0,Other,9,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1805,CUST13,2025-03-16,Home Decor,358.0,2,PayPal,Late,40.0,Other,15,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1806,CUST97,2025-03-17,Home Decor,443.0,8,Cash,On Time,63.0,Male,15,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1807,CUST79,2025-03-18,Electronics,222.0,5,PayPal,Late,25.0,Male,7,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1808,CUST189,2025-03-19,Clothing,450.0,7,Cash,Cancelled,25.0,Other,28,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1809,CUST59,2025-03-20,Electronics,459.0,2,Debit Card,Cancelled,43.0,Female,38,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1810,CUST33,2025-03-21,Groceries,239.0,8,PayPal,Cancelled,64.0,Female,27,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1811,CUST153,2025-03-22,Groceries,171.0,6,Credit Card,Cancelled,30.0,Other,5,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1812,CUST83,2025-03-23,Electronics,95.0,8,Debit Card,Late,56.0,Male,15,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1813,CUST26,2025-03-24,Home Decor,113.0,1,Credit Card,On Time,54.0,Female,19,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1814,CUST151,2025-03-25,Home Decor,179.0,1,Debit Card,Cancelled,66.0,Female,15,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1815,CUST137,2025-03-26,Electronics,359.0,7,PayPal,Cancelled,45.0,Female,6,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1816,CUST66,2025-03-27,Electronics,412.0,8,Cash,Late,42.0,Other,40,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1817,CUST157,2025-03-28,Groceries,242.0,3,Debit Card,Late,33.0,Female,13,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1818,CUST15,2025-03-29,Home Decor,356.0,5,Cash,Cancelled,19.0,Female,42,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1819,CUST75,2025-03-30,Electronics,230.0,1,Debit Card,On Time,35.0,Female,25,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1820,CUST176,2025-03-31,Groceries,341.0,7,Credit Card,On Time,34.0,Female,25,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1821,CUST13,2025-04-01,Home Decor,420.0,5,Credit Card,Cancelled,47.0,Male,13,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1822,CUST161,2025-04-02,Clothing,331.0,8,Debit Card,Late,56.0,Other,6,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1823,CUST176,2025-04-03,Groceries,78.0,8,Cash,Cancelled,30.0,Other,32,<function <lambda> at 0x796a7ccaae60>,North,,Returned
+ORD1824,CUST86,2025-04-04,Home Decor,198.0,9,PayPal,Cancelled,49.0,Male,25,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1825,CUST167,2025-04-05,Home Decor,316.0,7,PayPal,Late,67.0,Male,44,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1826,CUST67,2025-04-06,Groceries,345.0,1,Credit Card,Cancelled,46.0,Other,19,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1827,CUST52,2025-04-07,Clothing,60.0,3,PayPal,Cancelled,63.0,Female,2,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1828,CUST119,2025-04-08,Groceries,213.0,8,Credit Card,Cancelled,47.0,Female,3,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1829,CUST33,2025-04-09,Home Decor,162.0,3,PayPal,Late,35.0,Other,25,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1830,CUST97,2025-04-10,Electronics,236.0,8,Debit Card,On Time,30.0,Female,10,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1831,CUST170,2025-04-11,Electronics,344.0,1,Credit Card,On Time,60.0,Male,1,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1832,CUST135,2025-04-12,Groceries,281.0,5,Credit Card,Late,38.0,Female,13,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1833,CUST57,2025-04-13,Home Decor,276.0,4,Debit Card,On Time,47.0,Female,43,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1834,CUST12,2025-04-14,Electronics,359.0,5,Credit Card,Cancelled,38.0,Female,29,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1835,CUST28,2025-04-15,Home Decor,147.0,8,PayPal,On Time,65.0,Other,48,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1836,CUST24,2025-04-16,Groceries,104.0,4,PayPal,Cancelled,34.0,Male,11,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1837,CUST38,2025-04-17,Electronics,160.0,4,Credit Card,On Time,57.0,Female,25,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1838,CUST51,2025-04-18,Home Decor,201.0,3,PayPal,Late,36.0,Other,43,<function <lambda> at 0x796a7ccaae60>,North,5.0,Returned
+ORD1839,CUST182,2025-04-19,Electronics,295.0,7,Cash,On Time,69.0,Female,32,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1840,CUST111,2025-04-20,Groceries,455.0,3,Credit Card,On Time,32.0,Male,12,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1841,CUST92,2025-04-21,Home Decor,118.0,3,Debit Card,On Time,26.0,Female,13,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1842,CUST147,2025-04-22,Electronics,361.0,5,Cash,Late,69.0,Male,23,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1843,CUST3,2025-04-23,Groceries,338.0,5,Credit Card,On Time,27.0,Female,33,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1844,CUST105,2025-04-24,Electronics,299.0,6,Debit Card,Late,61.0,Male,43,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1845,CUST129,2025-04-25,Electronics,85.0,8,PayPal,Cancelled,48.0,Female,25,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1846,CUST136,2025-04-26,Clothing,,6,Debit Card,On Time,40.0,Male,20,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1847,CUST140,2025-04-27,Clothing,197.0,1,Cash,Late,69.0,Female,27,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1848,CUST142,2025-04-28,Groceries,276.0,8,PayPal,Late,47.0,Female,47,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1849,CUST64,2025-04-29,Clothing,,8,Credit Card,On Time,50.0,Other,35,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1850,CUST15,2025-04-30,Groceries,386.0,9,PayPal,Cancelled,69.0,Other,39,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1851,CUST123,2025-05-01,Clothing,495.0,9,Credit Card,Late,26.0,Male,1,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1852,CUST34,2025-05-02,Electronics,414.0,2,Credit Card,On Time,64.0,Female,41,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1853,CUST186,2025-05-03,Groceries,250.0,2,Debit Card,Cancelled,18.0,Male,8,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1854,CUST24,2025-05-04,Groceries,203.0,3,Debit Card,Late,61.0,Other,22,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1855,CUST183,2025-05-05,Electronics,499.0,1,Debit Card,Late,52.0,Male,14,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1856,CUST185,2025-05-06,Groceries,122.0,4,Cash,Cancelled,28.0,Male,12,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1857,CUST196,2025-05-07,Groceries,250.0,4,Cash,Cancelled,51.0,Other,22,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1858,CUST108,2025-05-08,Clothing,345.0,9,Debit Card,On Time,33.0,Female,16,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1859,CUST99,2025-05-09,Groceries,66.0,9,Cash,On Time,26.0,Male,47,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1860,CUST24,2025-05-10,Home Decor,178.0,9,PayPal,Late,49.0,Other,1,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1861,CUST161,2025-05-11,Electronics,266.0,7,PayPal,Cancelled,32.0,Female,19,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1862,CUST79,2025-05-12,Clothing,110.0,2,Cash,Cancelled,29.0,Other,19,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1863,CUST153,2025-05-13,Clothing,476.0,5,Cash,Cancelled,50.0,Male,45,<function <lambda> at 0x796a7ccaae60>,South,,Returned
+ORD1864,CUST103,2025-05-14,Home Decor,153.0,4,PayPal,Late,62.0,Female,2,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1865,CUST1,2025-05-15,Electronics,91.0,8,Credit Card,Cancelled,31.0,Female,11,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1866,CUST128,2025-05-16,Electronics,74.0,2,PayPal,Cancelled,25.0,Other,39,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1867,CUST150,2025-05-17,Clothing,88.0,6,PayPal,Late,25.0,Other,1,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1868,CUST151,2025-05-18,Groceries,340.0,5,Cash,On Time,44.0,Other,35,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1869,CUST81,2025-05-19,Clothing,180.0,2,PayPal,On Time,29.0,Female,13,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1870,CUST82,2025-05-20,Electronics,278.0,1,Cash,Late,18.0,Female,15,<function <lambda> at 0x796a7ccaae60>,North,5.0,Returned
+ORD1871,CUST120,2025-05-21,Home Decor,157.0,8,Cash,Cancelled,60.0,Male,18,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1872,CUST198,2025-05-22,Clothing,221.0,2,Debit Card,Late,57.0,Female,33,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1873,CUST112,2025-05-23,Electronics,484.0,7,PayPal,On Time,59.0,Male,43,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1874,CUST183,2025-05-24,Clothing,151.0,9,Credit Card,On Time,68.0,Other,45,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1875,CUST134,2025-05-25,Groceries,403.0,9,Debit Card,Late,28.0,Other,5,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1876,CUST105,2025-05-26,Clothing,61.0,8,Cash,Late,56.0,Female,12,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1877,CUST7,2025-05-27,Clothing,324.0,9,Cash,On Time,60.0,Other,35,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1878,CUST90,2025-05-28,Electronics,150.0,2,Credit Card,Late,48.0,Other,21,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1879,CUST102,2025-05-29,Electronics,93.0,6,Cash,On Time,34.0,Female,17,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1880,CUST151,2025-05-30,Electronics,492.0,4,PayPal,Late,50.0,Male,11,<function <lambda> at 0x796a7ccaae60>,South,,Returned
+ORD1881,CUST70,2025-05-31,Clothing,354.0,4,Debit Card,Late,49.0,Female,29,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1882,CUST14,2025-06-01,Groceries,494.0,5,Cash,Late,46.0,Male,39,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1883,CUST100,2025-06-02,Home Decor,66.0,3,Cash,On Time,38.0,Female,6,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1884,CUST84,2025-06-03,Home Decor,379.0,1,Credit Card,Late,38.0,Female,31,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1885,CUST21,2025-06-04,Electronics,106.0,8,PayPal,On Time,57.0,Other,47,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1886,CUST2,2025-06-05,Electronics,360.0,5,Cash,On Time,40.0,Female,18,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1887,CUST124,2025-06-06,Clothing,352.0,3,Credit Card,Late,23.0,Female,5,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1888,CUST190,2025-06-07,Home Decor,61.0,7,Cash,Late,39.0,Male,19,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1889,CUST158,2025-06-08,Electronics,367.0,7,Credit Card,On Time,67.0,Other,26,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1890,CUST149,2025-06-09,Groceries,129.0,1,Credit Card,On Time,55.0,Male,42,<function <lambda> at 0x796a7ccaae60>,North,5.0,Returned
+ORD1891,CUST77,2025-06-10,Groceries,265.0,9,PayPal,Cancelled,54.0,Male,36,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1892,CUST78,2025-06-11,Electronics,388.0,2,Cash,On Time,62.0,Other,47,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1893,CUST2,2025-06-12,Electronics,313.0,5,PayPal,Cancelled,,Other,6,<function <lambda> at 0x796a7ccaae60>,North,,Returned
+ORD1894,CUST20,2025-06-13,Home Decor,198.0,5,Credit Card,Cancelled,25.0,Other,4,<function <lambda> at 0x796a7ccaae60>,South,4.0,Returned
+ORD1895,CUST65,2025-06-14,Home Decor,130.0,8,Debit Card,Cancelled,58.0,Female,10,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1896,CUST40,2025-06-15,Clothing,264.0,8,Cash,Late,66.0,Other,14,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1897,CUST99,2025-06-16,Home Decor,423.0,7,Debit Card,Late,52.0,Other,2,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1898,CUST140,2025-06-17,Groceries,247.0,7,Cash,On Time,68.0,Other,4,<function <lambda> at 0x796a7ccaae60>,East,4.0,Returned
+ORD1899,CUST7,2025-06-18,Groceries,249.0,6,PayPal,Cancelled,28.0,Male,22,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1900,CUST3,2025-06-19,Electronics,74.0,6,PayPal,Late,,Male,36,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1901,CUST60,2025-06-20,Home Decor,138.0,9,PayPal,Late,66.0,Female,8,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1902,CUST37,2025-06-21,Clothing,317.0,6,PayPal,Late,38.0,Male,14,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1903,CUST12,2025-06-22,Groceries,192.0,2,PayPal,Late,68.0,Female,2,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1904,CUST140,2025-06-23,Groceries,108.0,2,Debit Card,Late,19.0,Male,28,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1905,CUST187,2025-06-24,Clothing,459.0,5,PayPal,Cancelled,57.0,Other,5,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1906,CUST90,2025-06-25,Clothing,414.0,4,Credit Card,Cancelled,36.0,Male,16,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1907,CUST75,2025-06-26,Groceries,75.0,2,Credit Card,Cancelled,56.0,Female,25,<function <lambda> at 0x796a7ccaae60>,West,1.0,Returned
+ORD1908,CUST118,2025-06-27,Groceries,96.0,3,Debit Card,Cancelled,45.0,Male,20,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1909,CUST167,2025-06-28,Clothing,337.0,7,Cash,On Time,34.0,Other,7,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1910,CUST121,2025-06-29,Groceries,315.0,8,Credit Card,Cancelled,23.0,Female,20,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1911,CUST138,2025-06-30,Electronics,65.0,6,Cash,Late,36.0,Other,10,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1912,CUST19,2025-07-01,Electronics,248.0,5,Debit Card,Cancelled,55.0,Other,37,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1913,CUST36,2025-07-02,Clothing,450.0,1,Cash,On Time,45.0,Female,7,<function <lambda> at 0x796a7ccaae60>,West,2.0,Not Returned
+ORD1914,CUST144,2025-07-03,Home Decor,456.0,8,Cash,Late,19.0,Other,41,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1915,CUST131,2025-07-04,Clothing,331.0,3,Cash,Cancelled,55.0,Other,23,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1916,CUST161,2025-07-05,Clothing,135.0,6,Cash,Cancelled,54.0,Male,34,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1917,CUST10,2025-07-06,Home Decor,299.0,3,Debit Card,Cancelled,68.0,Other,13,<function <lambda> at 0x796a7ccaae60>,West,1.0,Not Returned
+ORD1918,CUST127,2025-07-07,Home Decor,440.0,7,Credit Card,Late,69.0,Other,13,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1919,CUST99,2025-07-08,Home Decor,319.0,7,PayPal,Late,21.0,Other,9,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1920,CUST112,2025-07-09,Electronics,384.0,9,Cash,On Time,39.0,Other,11,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1921,CUST113,2025-07-10,Groceries,166.0,5,Credit Card,Late,43.0,Female,37,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1922,CUST51,2025-07-11,Electronics,56.0,8,Credit Card,Late,66.0,Male,43,<function <lambda> at 0x796a7ccaae60>,West,3.0,Not Returned
+ORD1923,CUST117,2025-07-12,Groceries,186.0,8,Debit Card,Cancelled,60.0,Other,45,<function <lambda> at 0x796a7ccaae60>,South,3.0,Not Returned
+ORD1924,CUST150,2025-07-13,Electronics,420.0,1,Credit Card,Late,53.0,Other,33,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1925,CUST190,2025-07-14,Groceries,225.0,5,Debit Card,Cancelled,30.0,Female,40,<function <lambda> at 0x796a7ccaae60>,North,5.0,Not Returned
+ORD1926,CUST16,2025-07-15,Electronics,377.0,3,Cash,Cancelled,69.0,Other,9,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1927,CUST150,2025-07-16,Home Decor,364.0,1,Cash,Late,49.0,Female,16,<function <lambda> at 0x796a7ccaae60>,West,,Returned
+ORD1928,CUST2,2025-07-17,Clothing,,4,PayPal,On Time,34.0,Male,16,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1929,CUST138,2025-07-18,Electronics,131.0,8,PayPal,On Time,58.0,Male,2,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1930,CUST132,2025-07-19,Groceries,272.0,3,PayPal,Late,53.0,Other,30,<function <lambda> at 0x796a7ccaae60>,East,1.0,Not Returned
+ORD1931,CUST85,2025-07-20,Home Decor,421.0,2,Credit Card,On Time,63.0,Other,0,<function <lambda> at 0x796a7ccaae60>,West,1.0,Not Returned
+ORD1932,CUST125,2025-07-21,Electronics,472.0,9,Cash,Cancelled,36.0,Other,11,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1933,CUST104,2025-07-22,Electronics,451.0,5,Debit Card,Cancelled,52.0,Female,38,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1934,CUST86,2025-07-23,Home Decor,492.0,7,PayPal,Late,63.0,Other,3,<function <lambda> at 0x796a7ccaae60>,North,1.0,Returned
+ORD1935,CUST92,2025-07-24,Electronics,152.0,2,Debit Card,On Time,57.0,Other,41,<function <lambda> at 0x796a7ccaae60>,West,1.0,Not Returned
+ORD1936,CUST121,2025-07-25,Clothing,322.0,9,Debit Card,On Time,45.0,Male,12,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1937,CUST145,2025-07-26,Electronics,63.0,9,PayPal,Cancelled,18.0,Other,33,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1938,CUST12,2025-07-27,Clothing,208.0,4,Cash,Late,59.0,Male,41,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1939,CUST96,2025-07-28,Clothing,201.0,4,PayPal,On Time,35.0,Other,20,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1940,CUST30,2025-07-29,Home Decor,157.0,6,Debit Card,Late,65.0,Male,21,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1941,CUST73,2025-07-30,Electronics,237.0,6,PayPal,On Time,57.0,Other,3,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1942,CUST180,2025-07-31,Home Decor,350.0,1,Debit Card,Cancelled,50.0,Male,17,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1943,CUST36,2025-08-01,Electronics,147.0,9,Debit Card,Cancelled,29.0,Female,4,<function <lambda> at 0x796a7ccaae60>,South,5.0,Not Returned
+ORD1944,CUST76,2025-08-02,Electronics,180.0,2,PayPal,Late,,Male,18,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1945,CUST181,2025-08-03,Groceries,342.0,5,Credit Card,Cancelled,41.0,Male,1,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1946,CUST184,2025-08-04,Electronics,220.0,9,PayPal,On Time,33.0,Male,11,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1947,CUST63,2025-08-05,Home Decor,473.0,4,Credit Card,Cancelled,67.0,Other,16,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1948,CUST78,2025-08-06,Clothing,,3,Debit Card,Late,21.0,Other,9,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1949,CUST123,2025-08-07,Electronics,413.0,7,Debit Card,Late,55.0,Other,33,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1950,CUST139,2025-08-08,Groceries,88.0,6,Credit Card,Late,61.0,Female,5,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1951,CUST164,2025-08-09,Home Decor,64.0,8,Debit Card,On Time,44.0,Female,7,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1952,CUST116,2025-08-10,Electronics,425.0,3,Credit Card,On Time,26.0,Male,10,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1953,CUST3,2025-08-11,Home Decor,53.0,5,Credit Card,On Time,64.0,Female,11,<function <lambda> at 0x796a7ccaae60>,West,1.0,Not Returned
+ORD1954,CUST13,2025-08-12,Groceries,398.0,4,Debit Card,On Time,33.0,Male,8,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1955,CUST170,2025-08-13,Groceries,458.0,4,Cash,On Time,29.0,Male,1,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1956,CUST158,2025-08-14,Home Decor,446.0,4,Credit Card,Cancelled,48.0,Male,7,<function <lambda> at 0x796a7ccaae60>,East,3.0,Not Returned
+ORD1957,CUST48,2025-08-15,Electronics,259.0,8,PayPal,On Time,41.0,Female,10,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1958,CUST167,2025-08-16,Clothing,5000.0,6,PayPal,On Time,31.0,Other,35,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1959,CUST181,2025-08-17,Groceries,65.0,3,Debit Card,Cancelled,62.0,Female,9,<function <lambda> at 0x796a7ccaae60>,West,1.0,Not Returned
+ORD1960,CUST168,2025-08-18,Electronics,475.0,5,Cash,On Time,42.0,Male,20,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1961,CUST145,2025-08-19,Electronics,157.0,6,Debit Card,Late,51.0,Male,19,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1962,CUST194,2025-08-20,Clothing,431.0,5,Cash,On Time,20.0,Female,47,<function <lambda> at 0x796a7ccaae60>,North,1.0,Not Returned
+ORD1963,CUST137,2025-08-21,Groceries,499.0,6,Credit Card,On Time,41.0,Male,7,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1964,CUST13,2025-08-22,Groceries,360.0,8,Credit Card,Late,59.0,Male,35,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1965,CUST22,2025-08-23,Electronics,276.0,7,Credit Card,Late,26.0,Female,28,<function <lambda> at 0x796a7ccaae60>,South,5.0,Returned
+ORD1966,CUST22,2025-08-24,Electronics,219.0,5,Credit Card,Late,43.0,Female,41,<function <lambda> at 0x796a7ccaae60>,North,2.0,Returned
+ORD1967,CUST74,2025-08-25,Clothing,83.0,6,PayPal,Late,,Female,11,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1968,CUST68,2025-08-26,Clothing,463.0,4,PayPal,On Time,57.0,Male,13,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1969,CUST102,2025-08-27,Groceries,300.0,9,Debit Card,Late,27.0,Male,47,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1970,CUST159,2025-08-28,Home Decor,296.0,4,Cash,Late,36.0,Other,49,<function <lambda> at 0x796a7ccaae60>,West,4.0,Not Returned
+ORD1971,CUST198,2025-08-29,Groceries,318.0,1,Credit Card,Cancelled,20.0,Other,20,<function <lambda> at 0x796a7ccaae60>,South,3.0,Returned
+ORD1972,CUST83,2025-08-30,Electronics,190.0,7,Credit Card,Late,41.0,Female,21,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1973,CUST4,2025-08-31,Groceries,323.0,7,Cash,Late,22.0,Other,20,<function <lambda> at 0x796a7ccaae60>,West,4.0,Returned
+ORD1974,CUST1,2025-09-01,Home Decor,465.0,4,Cash,Cancelled,20.0,Male,43,<function <lambda> at 0x796a7ccaae60>,West,3.0,Returned
+ORD1975,CUST17,2025-09-02,Clothing,145.0,3,Debit Card,Cancelled,44.0,Other,49,<function <lambda> at 0x796a7ccaae60>,North,4.0,Returned
+ORD1976,CUST175,2025-09-03,Home Decor,276.0,8,Cash,On Time,33.0,Male,29,<function <lambda> at 0x796a7ccaae60>,West,,Returned
+ORD1977,CUST187,2025-09-04,Home Decor,428.0,5,Credit Card,Cancelled,66.0,Female,38,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1978,CUST163,2025-09-05,Home Decor,88.0,7,Credit Card,On Time,32.0,Female,19,<function <lambda> at 0x796a7ccaae60>,North,,Returned
+ORD1979,CUST115,2025-09-06,Clothing,351.0,4,Credit Card,Cancelled,52.0,Male,23,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1980,CUST190,2025-09-07,Home Decor,78.0,4,Credit Card,Cancelled,29.0,Other,22,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1981,CUST23,2025-09-08,Home Decor,,8,Credit Card,On Time,58.0,Female,6,<function <lambda> at 0x796a7ccaae60>,East,,Returned
+ORD1982,CUST110,2025-09-09,Home Decor,367.0,8,Debit Card,Cancelled,61.0,Female,8,<function <lambda> at 0x796a7ccaae60>,East,3.0,Returned
+ORD1983,CUST115,2025-09-10,Electronics,294.0,2,Credit Card,On Time,43.0,Other,0,<function <lambda> at 0x796a7ccaae60>,North,4.0,Not Returned
+ORD1984,CUST39,2025-09-11,Home Decor,285.0,2,Debit Card,Cancelled,64.0,Other,25,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1985,CUST55,2025-09-12,Clothing,234.0,3,Credit Card,Late,51.0,Male,37,<function <lambda> at 0x796a7ccaae60>,East,2.0,Returned
+ORD1986,CUST24,2025-09-13,Home Decor,5000.0,3,PayPal,Cancelled,40.0,Other,37,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1987,CUST29,2025-09-14,Home Decor,489.0,1,PayPal,On Time,48.0,Other,43,<function <lambda> at 0x796a7ccaae60>,South,1.0,Returned
+ORD1988,CUST17,2025-09-15,Clothing,285.0,3,PayPal,Cancelled,67.0,Other,21,<function <lambda> at 0x796a7ccaae60>,South,1.0,Not Returned
+ORD1989,CUST95,2025-09-16,Home Decor,288.0,6,PayPal,On Time,37.0,Male,43,<function <lambda> at 0x796a7ccaae60>,South,2.0,Returned
+ORD1990,CUST122,2025-09-17,Clothing,426.0,8,Debit Card,On Time,29.0,Male,9,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1991,CUST40,2025-09-18,Home Decor,315.0,6,Debit Card,Late,40.0,Female,5,<function <lambda> at 0x796a7ccaae60>,West,5.0,Not Returned
+ORD1992,CUST66,2025-09-19,Clothing,463.0,5,Cash,Late,21.0,Male,16,<function <lambda> at 0x796a7ccaae60>,East,4.0,Not Returned
+ORD1993,CUST73,2025-09-20,Home Decor,458.0,4,Credit Card,On Time,40.0,Female,49,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1994,CUST139,2025-09-21,Home Decor,408.0,3,PayPal,Cancelled,65.0,Other,37,<function <lambda> at 0x796a7ccaae60>,South,4.0,Returned
+ORD1995,CUST131,2025-09-22,Electronics,389.0,4,Debit Card,On Time,65.0,Female,23,<function <lambda> at 0x796a7ccaae60>,East,1.0,Returned
+ORD1996,CUST170,2025-09-23,Electronics,438.0,7,Credit Card,On Time,18.0,Female,9,<function <lambda> at 0x796a7ccaae60>,North,2.0,Not Returned
+ORD1997,CUST135,2025-09-24,Home Decor,114.0,1,Credit Card,Cancelled,42.0,Other,7,<function <lambda> at 0x796a7ccaae60>,East,5.0,Not Returned
+ORD1998,CUST127,2025-09-25,Home Decor,226.0,7,Debit Card,Cancelled,19.0,Female,20,<function <lambda> at 0x796a7ccaae60>,East,5.0,Returned
+ORD1999,CUST60,2025-09-26,Groceries,52.0,1,PayPal,Cancelled,47.0,Male,5,<function <lambda> at 0x796a7ccaae60>,East,2.0,Not Returned
+ORD1275,CUST158,2023-10-03,Home Decor,473.0,5,PayPal,Cancelled,53.0,Male,48,<function <lambda> at 0x796a7ccaae60>,South,4.0,Not Returned
+ORD1079,CUST79,2023-03-21,Home Decor,121.0,1,Cash,Cancelled,46.0,Male,22,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
+ORD1811,CUST153,2025-03-22,Groceries,171.0,6,Credit Card,Cancelled,30.0,Other,5,<function <lambda> at 0x796a7ccaae60>,West,2.0,Returned
+ORD1788,CUST97,2025-02-27,Home Decor,214.0,4,PayPal,On Time,67.0,Male,2,<function <lambda> at 0x796a7ccaae60>,North,3.0,Not Returned
+ORD1626,CUST131,2024-09-18,Electronics,376.0,1,Credit Card,Cancelled,51.0,Male,22,<function <lambda> at 0x796a7ccaae60>,South,2.0,Not Returned
