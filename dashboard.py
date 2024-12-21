@@ -26,17 +26,25 @@ if view_option == "Feature Distribution":
     st.header("Feature Distribution: Raw vs Preprocessed Data")
 
     # Select feature to visualize
-    feature = st.selectbox("Select a feature to compare:", raw_df.columns)
+    common_features = list(set(raw_df.columns).intersection(preprocessed_df.columns))
+    feature = st.selectbox("Select a feature to compare:", common_features)
 
-    # Raw data distribution
-    st.subheader(f"Raw Data: {feature}")
-    raw_fig = px.histogram(raw_df, x=feature, title=f"Distribution of {feature} (Raw Data)", nbins=20)
-    st.plotly_chart(raw_fig)
+    if feature:
+        # Check if the feature is numeric
+        if pd.api.types.is_numeric_dtype(raw_df[feature]) and pd.api.types.is_numeric_dtype(preprocessed_df[feature]):
+            # Raw data distribution
+            st.subheader(f"Raw Data: {feature}")
+            raw_fig = px.histogram(raw_df, x=feature, title=f"Distribution of {feature} (Raw Data)", nbins=20)
+            st.plotly_chart(raw_fig)
 
-    # Preprocessed data distribution
-    st.subheader(f"Preprocessed Data: {feature}")
-    preprocessed_fig = px.histogram(preprocessed_df, x=feature, title=f"Distribution of {feature} (Preprocessed Data)", nbins=20)
-    st.plotly_chart(preprocessed_fig)
+            # Preprocessed data distribution
+            st.subheader(f"Preprocessed Data: {feature}")
+            preprocessed_fig = px.histogram(preprocessed_df, x=feature, title=f"Distribution of {feature} (Preprocessed Data)", nbins=20)
+            st.plotly_chart(preprocessed_fig)
+        else:
+            st.warning(f"The selected feature '{feature}' is non-numeric. Please select a numeric feature.")
+    else:
+        st.warning("No common feature found between raw and preprocessed datasets.")
 
 # Model Performance Comparison
 elif view_option == "Model Performance Comparison":
